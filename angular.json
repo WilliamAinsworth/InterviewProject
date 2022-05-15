@@ -104,5 +104,8 @@
       }
     }
   },
-  "defaultProject": "InterviewProject"
+  "defaultProject": "InterviewProject",
+  "cli": {
+    "analytics": false
+  }
 }

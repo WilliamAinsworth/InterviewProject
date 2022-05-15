@@ -16,7 +16,7 @@ header, footer {
 }
 
 .summary, .charts {
-  height: 40%;
+  height: 25rem;
   width: 90%;
   background: white;
 }

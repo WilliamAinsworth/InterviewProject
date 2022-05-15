@@ -1,0 +1,11 @@
+#pieChart {
+  display: block;
+  width: 400px;
+  height:400px;
+  border-color: black;
+}
+
+button {
+  height: 5rem;
+  width: 5rem;
+}
