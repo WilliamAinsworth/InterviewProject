@@ -1,0 +1,1480 @@
+DepartmentFamily,Entity,Date,ExpenseType,ExpenseArea,Supplier,TransactionNumber,Amount,InvoiceCurrencyUnit
+BIS,EPSRC,01/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,81872071,-0.02,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,81872071,31.03,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,81872071,154.99,GBP
+BIS,EPSRC,01/05/2015,Conferences & Seminars,Admin Peer Review and Output (excluding external panel member fees),Calder Conference Ltd,82533396,561.36,GBP
+BIS,EPSRC,01/05/2015,Conferences & Seminars,Admin Peer Review and Output (excluding external panel member fees),Calder Conference Ltd,82533396,5454.86,GBP
+BIS,EPSRC,01/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,85286060,103.44,GBP
+BIS,EPSRC,01/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,85286066,1020.46,GBP
+BIS,EPSRC,01/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,85287072,291.56,GBP
+BIS,EPSRC,01/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,85287074,145.78,GBP
+BIS,EPSRC,01/05/2015,Meetings & Catering,Programme Delivery Manufacturing,UOE Accommodation Limited T/A Edinburgh First,85304082,144.8,GBP
+BIS,EPSRC,01/05/2015,Consumables,JRS,Axis,85309078,104.83,GBP
+BIS,EPSRC,01/05/2015,Marketing & PR,Communications and Stakeholder Engagement,Technology Strategy Board,85313064,3635,GBP
+BIS,EPSRC,01/05/2015,Legal & Professional Services,Research Careers and Diversity,Higher Education Statistics Agency Ltd,85315128,9600,GBP
+BIS,EPSRC,01/05/2015,Hardware/Software Maintenance,JRS,Data Capture Solutions Ltd,85315130,5175.58,GBP
+BIS,EPSRC,01/05/2015,Hospitality,Programme Delivery Infrastructure,Calder Conference Ltd,85315273,999.77,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Unspecified,85315342,28.8,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Subsistence,Programme Delivery Engineering,Unspecified,85315342,40,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Subsistence,Programme Delivery Engineering,Unspecified,85315342,77.85,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Unspecified,85315343,16.4,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Parking Tolls Congestion Charges,Programme Delivery LWEC,Unspecified,85315344,11,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Public Transport,Programme Delivery Leaders,Unspecified,85315345,14.5,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Subsistence,Programme Delivery Leaders,Unspecified,85315345,3.75,GBP
+BIS,EPSRC,01/05/2015,T&S UK - Subsistence,Programme Delivery Leaders,Unspecified,85315345,4.25,GBP
+BIS,EPSRC,05/05/2015,Health & Safety (inc. Medicals & Opticians),PSU HR,Edenred Childcare Vouchers Limited,13443584,-2545,GBP
+BIS,EPSRC,05/05/2015,Health & Safety (inc. Medicals & Opticians),PSU HR,Edenred Childcare Vouchers Limited,13443584,-4.75,GBP
+BIS,EPSRC,05/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,85234473,1158.13,USD
+BIS,EPSRC,05/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,85315095,499.93,USD
+BIS,EPSRC,05/05/2015,Books Professional Journals & Guides,External communications,Doggett and Jones Ltd,85376078,1056,GBP
+BIS,EPSRC,05/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376105,160,GBP
+BIS,EPSRC,05/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376106,160,GBP
+BIS,EPSRC,05/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376108,160,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Mileage,Performance and Evaluation,Unspecified,85376204,39.6,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Parking Tolls Congestion Charges,Performance and Evaluation,Unspecified,85376204,27.89,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Performance and Evaluation,Unspecified,85376204,9,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Performance and Evaluation,Unspecified,85376204,15.2,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Performance and Evaluation,Unspecified,85376204,15,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Performance and Evaluation,Unspecified,85376204,18.65,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,85378090,14.2,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,85378090,2.45,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Unspecified,85378091,6.6,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,85378091,4.35,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,85378091,13.8,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85378092,3.56,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85378092,5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85378093,5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85378093,110.44,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Admin Research Base Director,Unspecified,85378094,10,GBP
+BIS,EPSRC,05/05/2015,T&S Overseas - Accommodation,Admin Research Base Director,Unspecified,85378095,77.67,GBP
+BIS,EPSRC,05/05/2015,T&S Overseas - Public Transport,Admin Research Base Director,Unspecified,85378095,32.53,GBP
+BIS,EPSRC,05/05/2015,T&S Overseas - Subsistence,Admin Research Base Director,Unspecified,85378095,5.6,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Parking Tolls Congestion Charges,Admin Research Base Director,Unspecified,85378096,4.2,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Admin Research Base Director,Unspecified,85378096,8,GBP
+BIS,EPSRC,05/05/2015,T&S Overseas - Accommodation,Admin Research Base Director,Unspecified,85378097,206.34,GBP
+BIS,EPSRC,05/05/2015,T&S Overseas - Public Transport,Admin Research Base Director,Unspecified,85378097,18.29,GBP
+BIS,EPSRC,05/05/2015,T&S Overseas - Subsistence,Admin Research Base Director,Unspecified,85378097,10,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Mileage,Admin Research Base Director,Unspecified,85378098,184.5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Parking Tolls Congestion Charges,Admin Research Base Director,Unspecified,85378098,54.5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Admin Research Base Director,Unspecified,85378098,84.8,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Admin Research Base Director,Unspecified,85378098,5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Admin Research Base Director,Unspecified,85378099,7,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Other Charges,Programme Delivery Quantum Technology,Unspecified,85378100,1.2,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Quantum Technology,Unspecified,85378100,5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Unspecified,85378101,4,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85378101,3.63,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85378101,5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,85378102,12.49,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,85378103,5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Mileage,Programme Delivery Physical Sciences,Unspecified,85378105,27.9,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Parking Tolls Congestion Charges,Programme Delivery Physical Sciences,Unspecified,85378105,4.6,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,85378105,3.3,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Public Transport,Director BI/BR,Unspecified,85378106,15,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Director BI/BR,Unspecified,85378106,7.5,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Vehicle Hire,Director BI/BR,Unspecified,85378106,17.85,GBP
+BIS,EPSRC,05/05/2015,T&S UK - Subsistence,Programme Delivery Digital Economy,Unspecified,85378107,10,GBP
+BIS,EPSRC,06/05/2015,Telecoms - Calls Fax & internet Costs,Admin RCUK Strategy Unit,Powwow,81154417,77.99,GBP
+BIS,EPSRC,06/05/2015,Telecoms - Non Capital Hardware Costs,International offices,Powwow,81154417,50.15,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,81837182,0.01,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,81837182,145.99,GBP
+BIS,EPSRC,06/05/2015,Meetings & Catering,EPSRC Corporate Services,Banner Business Services Limited,85300179,18.08,GBP
+BIS,EPSRC,06/05/2015,Meetings & Catering,EPSRC Corporate Services,Banner Business Services Limited,85300179,35.5,GBP
+BIS,EPSRC,06/05/2015,Meetings & Catering,EPSRC Corporate Services,Banner Business Services Limited,85300179,92.2,GBP
+BIS,EPSRC,06/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85337073,80.15,GBP
+BIS,EPSRC,06/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376104,160,GBP
+BIS,EPSRC,06/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376107,160,GBP
+BIS,EPSRC,06/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376109,160,GBP
+BIS,EPSRC,06/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376110,160,GBP
+BIS,EPSRC,06/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376111,160,GBP
+BIS,EPSRC,06/05/2015,Staff Training,Admin RCUK Strategy Unit,Inside Edge,85582061,94.8,GBP
+BIS,EPSRC,06/05/2015,Staff Training,Admin RCUK Strategy Unit,Inside Edge,85582061,930,GBP
+BIS,EPSRC,06/05/2015,Consumables,JRS,Premier Paper Group Ltd,85772060,273.6,GBP
+BIS,EPSRC,06/05/2015,Consumables,JRS,Premier Paper Group Ltd,85772060,1598.4,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Parking Tolls Congestion Charges,Admin Business Innovation Director,Unspecified,85841109,5.25,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Unspecified,85841109,20,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Unspecified,85841110,6,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85841110,5,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,85841110,16.59,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Unspecified,85841111,6.8,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,85841111,3.35,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,85841111,5,GBP
+BIS,EPSRC,06/05/2015,T&S Overseas - Public Transport,Chist,Unspecified,85841112,10.72,GBP
+BIS,EPSRC,06/05/2015,T&S Overseas - Subsistence,Chist,Unspecified,85841112,15,GBP
+BIS,EPSRC,06/05/2015,T&S Overseas - Subsistence,Chist,Unspecified,85841112,25,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Chist,Unspecified,85841113,8.25,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Other Charges,Programme Delivery Engineering,Unspecified,85841114,6.45,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Unspecified,85841114,8.3,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Engineering,Unspecified,85841114,60.35,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Mileage,Programme Delivery Physical Sciences,Unspecified,85841115,142.2,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,85841115,20,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Unspecified,85841117,16.5,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Unspecified,85841117,51.5,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Newton Programme Management Team,Unspecified,85841117,7.79,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Newton Programme Management Team,Unspecified,85841117,8.75,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Newton Programme Management Team,Unspecified,85841117,25,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Unspecified,85841118,62,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Capability,Unspecified,85841120,2.9,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Capability,Unspecified,85841120,3.35,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Capability,Unspecified,85841120,10,GBP
+BIS,EPSRC,06/05/2015,Health & Safety (inc. Medicals & Opticians),Programme Delivery Infrastructure,Unspecified,85841121,10,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Mileage,Programme Delivery Infrastructure,Unspecified,85841122,36.45,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Unspecified,85841122,1.5,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Unspecified,85841122,20.7,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Infrastructure,Unspecified,85841122,4.5,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Infrastructure,Unspecified,85841122,5,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,85841123,9,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,85841123,5,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,85841123,6.7,GBP
+BIS,EPSRC,06/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,85841123,10,GBP
+BIS,EPSRC,07/05/2015,SSC Service Charges,EPSRC Corporate Services,Kelway (UK) Limited,81152575,-111.6,GBP
+BIS,EPSRC,07/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,XMA Ltd,84975165,2051.81,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,1.63,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,1.68,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,2.38,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,3.56,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,4.75,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,6.78,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,6.9,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,11.34,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,12.48,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,12.89,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,24.05,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,27.07,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,36.02,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,48.1,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,85300178,60.96,GBP
+BIS,EPSRC,07/05/2015,Consumables,JRS,Data Capture Solutions Ltd,85315108,18,GBP
+BIS,EPSRC,07/05/2015,Consumables,JRS,Data Capture Solutions Ltd,85315108,253.68,GBP
+BIS,EPSRC,07/05/2015,Staff Relocation,RCUK Executive Director,Banner Business Services Limited,85337070,21.7,GBP
+BIS,EPSRC,07/05/2015,Consumables,JRS,Banner Business Services Limited,85337071,32.92,GBP
+BIS,EPSRC,07/05/2015,Consumables,JRS,Banner Business Services Limited,85337071,78.07,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,0.29,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,0.43,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,1.15,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,1.19,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,1.19,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,1.19,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,1.74,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,1.74,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,1.74,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,3.38,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,4.82,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,4.97,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,6.48,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,7.56,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,13.8,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,20.46,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,20.46,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,36.74,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,85337072,49.97,GBP
+BIS,EPSRC,07/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,XMA Ltd,85882163,512.95,GBP
+BIS,EPSRC,07/05/2015,Marketing & PR,Communications and Stakeholder Engagement,LM INFORMATION DELIVERY UK LTD,85882192,197.29,GBP
+BIS,EPSRC,07/05/2015,Marketing & PR,Communications and Stakeholder Engagement,LM INFORMATION DELIVERY UK LTD,85882201,259.79,GBP
+BIS,EPSRC,07/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Farnell Onecall,85901069,77.52,GBP
+BIS,EPSRC,07/05/2015,SSC Service Charges,PSU IS,Kelway (UK) Limited,85940089,11.99,GBP
+BIS,EPSRC,07/05/2015,SSC Service Charges,PSU IS,Kelway (UK) Limited,85940089,1051.08,GBP
+BIS,EPSRC,07/05/2015,UK - Professional Memberships & Subscriptions,External communications,AlphaGalileo Foundation,85940132,936,GBP
+BIS,EPSRC,07/05/2015,Meetings & Catering,Admin RCUK Strategy Unit,Baxter Storey Ltd,85940164,22.8,GBP
+BIS,EPSRC,07/05/2015,Meetings & Catering,Admin RCUK Strategy Unit,Baxter Storey Ltd,85940164,114,GBP
+BIS,EPSRC,07/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Unspecified,85940216,17,GBP
+BIS,EPSRC,07/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,85940216,10,GBP
+BIS,EPSRC,07/05/2015,T&S UK - Mileage,Programme Delivery Manufacturing,Unspecified,85940217,12.6,GBP
+BIS,EPSRC,07/05/2015,Consumables,JRS,Antalis McNaughton Limited,85985060,9.7,GBP
+BIS,EPSRC,07/05/2015,Consumables,JRS,Antalis McNaughton Limited,85985060,133.32,GBP
+BIS,EPSRC,07/05/2015,Marketing & PR,Communications and Stakeholder Engagement,Unspecified,85987061,148,GBP
+BIS,EPSRC,07/05/2015,Corporate Events,Strategy,Posterboards Direct,86015311,685.68,GBP
+BIS,EPSRC,08/05/2015,Printing & Stationery,JRS,PG Events Ltd,85940473,435.6,GBP
+BIS,EPSRC,08/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Unspecified,86056572,5,GBP
+BIS,EPSRC,08/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,86056572,2.3,GBP
+BIS,EPSRC,08/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,86056572,5,GBP
+BIS,EPSRC,08/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,86056572,5.75,GBP
+BIS,EPSRC,08/05/2015,T&S UK - Vehicle Hire,Programme Delivery Manufacturing,Unspecified,86056573,33.58,GBP
+BIS,EPSRC,08/05/2015,T&S UK - Parking Tolls Congestion Charges,Programme Delivery Healthcare,Unspecified,86056574,3,GBP
+BIS,EPSRC,08/05/2015,T&S UK - Vehicle Hire,Programme Delivery Healthcare,Unspecified,86056574,20.22,GBP
+BIS,EPSRC,11/05/2015,Agency Staff,JRS,Brook Street (Uk) Ltd,85951060,-0.01,GBP
+BIS,EPSRC,11/05/2015,Agency Staff,JRS,Brook Street (Uk) Ltd,85951060,515.4,GBP
+BIS,EPSRC,11/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,86056354,12.02,GBP
+BIS,EPSRC,11/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Banner Business Services Limited,86056354,12.02,GBP
+BIS,EPSRC,11/05/2015,Photocopy Costs,JRS,Oce (UK) Ltd,86093107,233.54,GBP
+BIS,EPSRC,11/05/2015,Telecoms - Tele/ Video conferencing,EPSRC Corporate Services,InterCall Conferencing Services Ltd,86098061,208.78,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,86099273,10,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,86099273,73.09,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Unspecified,86099274,14.4,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Communications and Stakeholder Engagement,Unspecified,86099274,3.2,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Unspecified,86099275,16,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Unspecified,86099276,9,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,86099276,2.1,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,86099276,5,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,86099276,6.79,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,86099277,4.4,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,86099277,5,GBP
+BIS,EPSRC,11/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Unspecified,86099278,24.8,GBP
+BIS,EPSRC,12/05/2015,Meetings & Catering,Programme Delivery ICT,Calder Conference Ltd,85699061,24.25,GBP
+BIS,EPSRC,12/05/2015,Meetings & Catering,Programme Delivery ICT,Calder Conference Ltd,85699061,4851.21,GBP
+BIS,EPSRC,12/05/2015,Contract Staff,Digital Communications,Capita Business Services Ltd,86000061,216.72,GBP
+BIS,EPSRC,12/05/2015,Contract Staff,Digital Communications,Capita Business Services Ltd,86000061,816.17,GBP
+BIS,EPSRC,12/05/2015,Contract Staff,Digital Communications,Capita Business Services Ltd,86009060,8621.03,GBP
+BIS,EPSRC,12/05/2015,Printing & Stationery,Programme Delivery ICT,Banner Business Services Limited,86056353,2.08,GBP
+BIS,EPSRC,12/05/2015,Printing & Stationery,Programme Delivery ICT,Banner Business Services Limited,86056353,2.08,GBP
+BIS,EPSRC,12/05/2015,Printing & Stationery,Programme Delivery ICT,Banner Business Services Limited,86056353,2.08,GBP
+BIS,EPSRC,12/05/2015,Printing & Stationery,Programme Delivery ICT,Banner Business Services Limited,86056353,2.08,GBP
+BIS,EPSRC,12/05/2015,Printing & Stationery,Programme Delivery ICT,Banner Business Services Limited,86056353,7.49,GBP
+BIS,EPSRC,12/05/2015,Consumables,JRS,Banner Business Services Limited,86056355,13.69,GBP
+BIS,EPSRC,12/05/2015,Consultancy Services,PSU HR,Jo Milsom,86103061,119,GBP
+BIS,EPSRC,12/05/2015,Marketing & PR,Communications and Stakeholder Engagement,LM INFORMATION DELIVERY UK LTD,86147060,278.58,GBP
+BIS,EPSRC,12/05/2015,Marketing & PR,Communications and Stakeholder Engagement,LM INFORMATION DELIVERY UK LTD,86147060,2319.59,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Infrastructure,Non Employee Expenses Supplier,86155060,222.6,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Programme Delivery Infrastructure,Non Employee Expenses Supplier,86155061,240,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155062,124,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155063,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155064,72.2,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155065,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155066,96.5,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155067,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155068,227.3,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155069,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155070,69,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155071,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155072,351.05,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155073,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,OSG Operational Projects,Non Employee Expenses Supplier,86155074,116.25,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,OSG Operational Projects,Non Employee Expenses Supplier,86155075,99.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,OSG Operational Projects,Non Employee Expenses Supplier,86155076,242.9,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Infrastructure,Non Employee Expenses Supplier,86155077,175.6,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Programme Delivery Infrastructure,Non Employee Expenses Supplier,86155078,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Communications and Stakeholder Engagement,Non Employee Expenses Supplier,86155079,38.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86155080,1271.37,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86155081,101.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86155082,45.9,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86155083,14,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86155084,85,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86155085,95.4,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86155086,132.3,GBP
+BIS,EPSRC,12/05/2015,Marketing & PR,Communications and Stakeholder Engagement,LM INFORMATION DELIVERY UK LTD,86168060,166.52,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86179060,2222.97,USD
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86179061,488.29,EUR
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86179062,158.57,EUR
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86179063,2959.57,AUD
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86179064,3878.92,AUD
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86223061,1687.74,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223062,84.2,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223063,73.5,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223064,53.25,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223065,84.5,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223066,80.1,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223067,80.95,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223068,89.05,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223069,85.1,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223070,81.45,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223071,64.4,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223072,100.45,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223073,80.1,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223074,102.6,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223075,53.5,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223076,84.75,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223077,98.15,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223078,84.75,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223079,84.35,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223080,99.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223081,53.75,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223082,85.1,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223083,99.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223084,46.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223085,94.2,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223086,160.2,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Turing Programme Delivery,Non Employee Expenses Supplier,86223087,107.3,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250060,126,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250061,56,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250062,232.6,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250063,90.9,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250064,338.55,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250065,289.99,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86250066,123.15,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Programme Delivery Engineering,Non Employee Expenses Supplier,86250067,320,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery GU,Non Employee Expenses Supplier,86250068,34.3,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250069,410.6,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery ICT,Non Employee Expenses Supplier,86250070,94.95,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250071,107.7,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86250072,248.05,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Digital Economy,Non Employee Expenses Supplier,86250073,57.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Digital Economy,Non Employee Expenses Supplier,86250074,79.6,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Programme Delivery Digital Economy,Non Employee Expenses Supplier,86250075,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Digital Economy,Non Employee Expenses Supplier,86250076,79.55,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Digital Economy,Non Employee Expenses Supplier,86250077,97.9,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86267062,274.28,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Programme Delivery Energy,Non Employee Expenses Supplier,86267063,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86267064,81.4,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267065,76.04,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267066,518.53,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267067,19.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Public Engagement with Research,Non Employee Expenses Supplier,86267068,29,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Public Engagement with Research,Non Employee Expenses Supplier,86267069,80,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267070,79.55,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267071,67.8,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267072,327.86,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267073,148.55,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267074,52,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267075,167,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267076,151.1,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86267077,57,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86267078,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86267079,26.64,GBP
+BIS,EPSRC,12/05/2015,Fees (Including College Members),Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86267080,160,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Strategy,Non Employee Expenses Supplier,86267081,237.2,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,OSG Operational Projects,Non Employee Expenses Supplier,86267082,94.5,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,OSG Operational Projects,Non Employee Expenses Supplier,86267083,50.1,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,OSG Operational Projects,Non Employee Expenses Supplier,86267084,447.79,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86267085,329.31,GBP
+BIS,EPSRC,12/05/2015,Non-staff travel and subsistance,Associate Director Operations,Non Employee Expenses Supplier,86267086,81.54,GBP
+BIS,EPSRC,12/05/2015,Other Programme Costs,RCUK Strategy Unit,ACCESS DISPLAYS LTD,86267345,877.2,GBP
+BIS,EPSRC,12/05/2015,Meetings & Catering,Programme Delivery Healthcare,TURNAROUND360,86285060,-10.8,GBP
+BIS,EPSRC,12/05/2015,Meetings & Catering,Programme Delivery Healthcare,TURNAROUND360,86285060,264,GBP
+BIS,EPSRC,12/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86298061,73,GBP
+BIS,EPSRC,12/05/2015,Hospitality,Programme Delivery Digital Economy,Calder Conference Ltd,86306060,298.42,GBP
+BIS,EPSRC,12/05/2015,Meetings & Catering,Programme Delivery Physical Sciences,IOP Institute of Physics,86323124,10000,GBP
+BIS,EPSRC,12/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Unspecified,86324106,123.3,GBP
+BIS,EPSRC,12/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Unspecified,86324107,8,GBP
+BIS,EPSRC,12/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,86324109,14.7,GBP
+BIS,EPSRC,12/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,86324109,5.09,GBP
+BIS,EPSRC,12/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,86324109,9.7,GBP
+BIS,EPSRC,12/05/2015,Telecoms - Calls Fax & internet Costs,PSU IS,Telecoms World Plc,86357308,16.78,GBP
+BIS,EPSRC,12/05/2015,Financial Services,PSU Finance,Royal Bank of Scotland plc/Natwest,86357315,200,GBP
+BIS,EPSRC,13/05/2015,Printing & Stationery,Admin RCUK Strategy Unit,Farnell Onecall,86357097,85.8,GBP
+BIS,EPSRC,13/05/2015,Conferences & Seminars,Research Funding Programme,ETC Venues Ltd,86357304,60,GBP
+BIS,EPSRC,13/05/2015,Conferences & Seminars,Research Funding Programme,ETC Venues Ltd,86357304,3363,GBP
+BIS,EPSRC,13/05/2015,Consumables,JRS,Banner Business Services Limited,86358232,456.24,GBP
+BIS,EPSRC,13/05/2015,Health & Safety (inc. Medicals & Opticians),Programme Delivery Physical Sciences,Unspecified,86359252,25,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Public Transport,Admin Research Base Director,Unspecified,86359253,851,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,86359255,10,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,86359255,19.43,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Public Transport,Programme Delivery Leaders,Unspecified,86359256,23.8,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Vehicle Hire,Programme Delivery Engineering,Unspecified,86359257,19.78,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Unspecified,86359258,39,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,86359258,5,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Subsistence,Programme Delivery ICT,Unspecified,86359258,22.7,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Unspecified,86359260,10.4,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Subsistence,Programme Delivery Digital Economy,Unspecified,86359260,11.16,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Unspecified,86359261,21,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Subsistence,Programme Delivery Digital Economy,Unspecified,86359261,6.35,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Unspecified,86359262,62,GBP
+BIS,EPSRC,13/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,86359262,20,GBP
+BIS,EPSRC,13/05/2015,Telecoms - Calls Fax & internet Costs,Admin RCUK Strategy Unit,Powwow,86370060,68.52,GBP
+BIS,EPSRC,14/05/2015,Agency Staff,Admin RCUK Strategy Unit,Brook Street (Uk) Ltd,83601139,534.14,GBP
+BIS,EPSRC,14/05/2015,Agency Staff,Admin RCUK Strategy Unit,Brook Street (Uk) Ltd,84054116,320.48,GBP
+BIS,EPSRC,14/05/2015,Agency Staff,Admin RCUK Strategy Unit,Brook Street (Uk) Ltd,84782069,427.32,GBP
+BIS,EPSRC,14/05/2015,Agency Staff,Admin RCUK Strategy Unit,Brook Street (Uk) Ltd,85284062,542.06,GBP
+BIS,EPSRC,14/05/2015,Agency Staff,Admin RCUK Strategy Unit,Brook Street (Uk) Ltd,85965060,16.32,GBP
+BIS,EPSRC,14/05/2015,Agency Staff,Admin RCUK Strategy Unit,Brook Street (Uk) Ltd,85965060,517.82,GBP
+BIS,EPSRC,14/05/2015,Marketing & PR,Communications and Stakeholder Engagement,Precise Media Monitoring Limited,86015406,503.7,GBP
+BIS,EPSRC,14/05/2015,Agency Staff,Admin RCUK Strategy Unit,Brook Street (Uk) Ltd,86357194,534.14,GBP
+BIS,EPSRC,14/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86457152,73,GBP
+BIS,EPSRC,14/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86457156,73,GBP
+BIS,EPSRC,14/05/2015,Other Bought In Services,Performance and Evaluation,Macmillan Publishers Ltd,86461140,11994,GBP
+BIS,EPSRC,14/05/2015,Childcare Nursery,PSU HR,P&MM Limited,86462195,56.88,GBP
+BIS,EPSRC,14/05/2015,Nursery Deductions,Balance Sheet,P&MM Limited,86462195,4739.85,GBP
+BIS,EPSRC,14/05/2015,PAYE Payable Salaries,Balance Sheet,HM Revenue & Customs,86463162,84200.5,GBP
+BIS,EPSRC,14/05/2015,NI Payable Salaries,Balance Sheet,HM Revenue & Customs,86463163,85909.26,GBP
+BIS,EPSRC,14/05/2015,Student Loans,Balance Sheet,HM Revenue & Customs,86463164,3698,GBP
+BIS,EPSRC,14/05/2015,Other Pension Deductions,Balance Sheet,Scottish Widows,86463165,53.55,GBP
+BIS,EPSRC,14/05/2015,Partnership Pension Deductions,Balance Sheet,Scottish Widows,86463166,1011.26,GBP
+BIS,EPSRC,14/05/2015,Voluntary Deductions,Balance Sheet,Charities Aid Foundation - GAYE,86463167,1161.66,GBP
+BIS,EPSRC,14/05/2015,Voluntary Deductions,Balance Sheet,Civil Service Benevolent Fund,86463168,5,GBP
+BIS,EPSRC,14/05/2015,Union Deductions,Balance Sheet,PCS Union,86463169,259.2,GBP
+BIS,EPSRC,14/05/2015,Union Deductions,Balance Sheet,Prospect Union,86463170,65.74,GBP
+BIS,EPSRC,14/05/2015,Ers Pension Deductions - JSS,Balance Sheet,RCPS Pension,86463172,153290.88,GBP
+BIS,EPSRC,14/05/2015,Ees Pension Deductions - JSS,Balance Sheet,RCPS Pension,86463173,35810.75,GBP
+BIS,EPSRC,14/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86463181,0.01,GBP
+BIS,EPSRC,14/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86463181,145.99,GBP
+BIS,EPSRC,14/05/2015,NI Payable Salaries,Balance Sheet,HM Revenue & Customs,86474060,191.64,GBP
+BIS,EPSRC,15/05/2015,Secondments,Admin RCUK Strategy Unit,Economic & Social Research Council,81948128,432,GBP
+BIS,EPSRC,15/05/2015,Secondments,Admin RCUK Strategy Unit,Economic & Social Research Council,81948128,9728,GBP
+BIS,EPSRC,15/05/2015,Meetings & Catering,Programme Delivery Physical Sciences,Science & Technology Facilities Council,82910616,242,GBP
+BIS,EPSRC,15/05/2015,Meetings & Catering,Programme Delivery Physical Sciences,Science & Technology Facilities Council,82910616,1210,GBP
+BIS,EPSRC,15/05/2015,Other Programme Costs,NC Engineering,Science & Technology Facilities Council,84214060,123945.57,GBP
+BIS,EPSRC,15/05/2015,Research Grant Expenditure,Healthcare Healthcare,Medical Research Council,84758060,300000,GBP
+BIS,EPSRC,15/05/2015,Research Grant Expenditure,Energy Energy,Economic & Social Research Council,84872330,12395.33,GBP
+BIS,EPSRC,15/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,AM Health & Safety Ltd,84966060,54,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Mileage,Communications and Stakeholder Engagement,Unspecified,85285198,51.3,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Parking Tolls Congestion Charges,Communications and Stakeholder Engagement,Unspecified,85285198,5.8,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Parking Tolls Congestion Charges,Communications and Stakeholder Engagement,Unspecified,85285198,23.1,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Subsistence,Communications and Stakeholder Engagement,Unspecified,85285198,4.5,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Subsistence,Communications and Stakeholder Engagement,Unspecified,85285198,6.36,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Public Transport,Associate Director Operations,V Cars Ltd,86378060,20.64,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Vehicle Hire,Admin RCUK Strategy Unit,V Cars Ltd,86378060,150,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Vehicle Hire,Communications and Stakeholder Engagement,V Cars Ltd,86378060,162,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Vehicle Hire,Newton Programme Delivery,V Cars Ltd,86378060,31.68,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Vehicle Hire,Programme Delivery Energy,V Cars Ltd,86378060,321.12,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Vehicle Hire,Programme Delivery Engineering,V Cars Ltd,86378060,666,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Vehicle Hire,Programme Delivery ICT,V Cars Ltd,86378060,330,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Vehicle Hire,Programme Delivery Manufacturing,V Cars Ltd,86378060,336.48,GBP
+BIS,EPSRC,15/05/2015,Translation Services,Programme Delivery ICT,V Cars Ltd,86378060,180,GBP
+BIS,EPSRC,15/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,AM Health & Safety Ltd,86462200,90,GBP
+BIS,EPSRC,15/05/2015,Voluntary Deductions,Balance Sheet,Swindon Office Sports and Social Club,86463171,160,GBP
+BIS,EPSRC,15/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472114,320,GBP
+BIS,EPSRC,15/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472118,320,GBP
+BIS,EPSRC,15/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472120,320,GBP
+BIS,EPSRC,15/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472121,320,GBP
+BIS,EPSRC,15/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472124,320,GBP
+BIS,EPSRC,15/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472125,320,GBP
+BIS,EPSRC,15/05/2015,Meetings & Catering,Programme Delivery Infrastructure,Imperial College London,86473097,189.25,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86475065,455.18,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86477207,116.9,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Programme Delivery Infrastructure,Non Employee Expenses Supplier,86477208,106.2,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86477209,36.3,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Review of Peer Review,Non Employee Expenses Supplier,86477210,205.23,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,OSG Operational Projects,Non Employee Expenses Supplier,86477211,25.5,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Review of Peer Review,Non Employee Expenses Supplier,86477212,193.5,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86477213,77.55,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Programme Delivery Infrastructure,Non Employee Expenses Supplier,86477214,60.3,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Strategy,Non Employee Expenses Supplier,86477215,65.7,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Strategy,Non Employee Expenses Supplier,86477216,65,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Strategy,Non Employee Expenses Supplier,86477217,67.55,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Programme Delivery Capability,Non Employee Expenses Supplier,86477218,32.8,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Programme Delivery Capability,Non Employee Expenses Supplier,86477219,133.4,GBP
+BIS,EPSRC,15/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86477220,320,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86477221,148.5,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86477222,156.2,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86477223,102.7,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Programme Delivery Maths,Non Employee Expenses Supplier,86477224,32.35,GBP
+BIS,EPSRC,15/05/2015,Non-staff travel and subsistance,Programme Delivery Maths,Non Employee Expenses Supplier,86477225,98.3,GBP
+BIS,EPSRC,15/05/2015,Printing & Stationery,JRS,In2Print,86477384,614,GBP
+BIS,EPSRC,15/05/2015,Printing & Stationery,JRS,Williams Lea,86477411,791.18,GBP
+BIS,EPSRC,15/05/2015,Printing & Stationery,JRS,Williams Lea,86477416,590.44,GBP
+BIS,EPSRC,15/05/2015,Consumables,JRS,Williams Lea,86477418,1.3,GBP
+BIS,EPSRC,15/05/2015,Consumables,JRS,Williams Lea,86477418,6.48,GBP
+BIS,EPSRC,15/05/2015,Consumables,JRS,Williams Lea,86477418,248.64,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Unspecified,86480102,45.1,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Mileage,Performance and Evaluation,Unspecified,86480103,27,GBP
+BIS,EPSRC,15/05/2015,T&S UK - Parking Tolls Congestion Charges,Performance and Evaluation,Unspecified,86480103,7.8,GBP
+BIS,EPSRC,18/05/2015,Storage & Archiving Costs,EPSRC Corporate Services,Pickfords Ltd,80742633,638.4,GBP
+BIS,EPSRC,18/05/2015,Health & Safety (inc. Medicals & Opticians),PSU HR,BMI Healthcare Limited,86479161,511,GBP
+BIS,EPSRC,18/05/2015,Health & Safety (inc. Medicals & Opticians),PSU HR,BMI Healthcare Limited,86479185,1387,GBP
+BIS,EPSRC,18/05/2015,Health & Safety (inc. Medicals & Opticians),PSU HR,BMI Healthcare Limited,86479188,318.75,GBP
+BIS,EPSRC,18/05/2015,Corporate Events,Communications and Stakeholder Engagement,IOP Institute of Physics,86491060,5000,GBP
+BIS,EPSRC,18/05/2015,Meetings & Catering,EPSRC Corporate Services,Banner Business Services Limited,86494142,49.24,GBP
+BIS,EPSRC,18/05/2015,Meetings & Catering,EPSRC Corporate Services,Banner Business Services Limited,86494142,138.3,GBP
+BIS,EPSRC,18/05/2015,Printing & Stationery,JRS,Kennedy Grinding Ltd,86536071,40.8,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery LWEC,Non Employee Expenses Supplier,86536072,106.3,GBP
+BIS,EPSRC,18/05/2015,Fees (Including College Members),Programme Delivery LWEC,Non Employee Expenses Supplier,86536073,160,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86536074,409.5,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery LWEC,Non Employee Expenses Supplier,86536075,188.93,GBP
+BIS,EPSRC,18/05/2015,Fees (Including College Members),Programme Delivery LWEC,Non Employee Expenses Supplier,86536076,160,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Capability,Non Employee Expenses Supplier,86536077,165.07,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86536078,233.98,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86536079,223.2,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Infrastructure,Non Employee Expenses Supplier,86536080,8,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Infrastructure,Non Employee Expenses Supplier,86536081,236.1,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Associate Director Operations,Non Employee Expenses Supplier,86536082,15.3,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86536083,299.38,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86536084,179.7,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery ICT,Non Employee Expenses Supplier,86536085,82.59,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86536086,84.6,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery ICT,Non Employee Expenses Supplier,86536087,69.1,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86536088,30.4,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86536089,140.1,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,RCUK Strategy Unit,Non Employee Expenses Supplier,86536090,254.22,GBP
+BIS,EPSRC,18/05/2015,Photocopy Costs,JRS,Oce (UK) Ltd,86536097,1190.44,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539067,57.12,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539069,82.5,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539070,94.3,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539071,126.33,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539072,139.6,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539073,46.8,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539074,44.5,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539075,79.3,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539076,120.85,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539077,281.1,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86539078,149.28,GBP
+BIS,EPSRC,18/05/2015,Fees (Including College Members),Programme Delivery Energy,Non Employee Expenses Supplier,86539079,320,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539084,76.2,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539085,69.52,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Impact,Non Employee Expenses Supplier,86539086,90.1,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Impact,Non Employee Expenses Supplier,86539087,148,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86539088,84.95,GBP
+BIS,EPSRC,18/05/2015,Fees (Including College Members),Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86539089,160,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Quantum Technology,Non Employee Expenses Supplier,86539090,35.95,GBP
+BIS,EPSRC,18/05/2015,Fees (Including College Members),Programme Delivery Quantum Technology,Non Employee Expenses Supplier,86539091,80,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,KTEIG Projects,Non Employee Expenses Supplier,86539092,338.45,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539093,115.05,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539094,187.6,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539095,125.35,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539096,196.77,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539097,78.72,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86539098,154.58,GBP
+BIS,EPSRC,18/05/2015,Consumables,JRS,Antalis McNaughton Limited,86539136,53.17,GBP
+BIS,EPSRC,18/05/2015,Consumables,JRS,Antalis McNaughton Limited,86539136,88.19,GBP
+BIS,EPSRC,18/05/2015,Hospitality,Programme Delivery Manufacturing,University of Strathclyde,86539172,4.4,GBP
+BIS,EPSRC,18/05/2015,Hospitality,Programme Delivery Manufacturing,University of Strathclyde,86539172,188.4,GBP
+BIS,EPSRC,18/05/2015,Agency Staff,Strategy,Brook Street (Uk) Ltd,86539442,452.24,GBP
+BIS,EPSRC,18/05/2015,Agency Staff,Strategy,Brook Street (Uk) Ltd,86539445,242.15,GBP
+BIS,EPSRC,18/05/2015,Agency Staff,Strategy,Brook Street (Uk) Ltd,86539447,481.96,GBP
+BIS,EPSRC,18/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86540168,132.7,GBP
+BIS,EPSRC,18/05/2015,Legal & Professional Services,Programme Delivery Maths,Eversheds,86540220,30091.2,GBP
+BIS,EPSRC,18/05/2015,T&S UK - Public Transport,Programme Delivery Leaders,Unspecified,86542104,19,GBP
+BIS,EPSRC,18/05/2015,T&S UK - Other Charges,Admin RCUK Strategy Unit,Unspecified,86542105,66,GBP
+BIS,EPSRC,18/05/2015,T&S UK - Parking Tolls Congestion Charges,Programme Delivery Digital Economy,Unspecified,86542106,6.6,GBP
+BIS,EPSRC,18/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Unspecified,86542107,6.6,GBP
+BIS,EPSRC,18/05/2015,T&S UK - Public Transport,Strategy,Unspecified,86542108,10.1,GBP
+BIS,EPSRC,18/05/2015,T&S UK - Subsistence,Strategy,Unspecified,86542108,5,GBP
+BIS,EPSRC,18/05/2015,Agency Staff,Strategy,Brook Street (Uk) Ltd,86611078,398.83,GBP
+BIS,EPSRC,18/05/2015,Agency Staff,Strategy,Brook Street (Uk) Ltd,86611082,473.6,GBP
+BIS,EPSRC,18/05/2015,Printing & Stationery,JRS,Z-Card Limited,86611297,475,GBP
+BIS,EPSRC,19/05/2015,Purchase of non capital equipment,EPSRC Corporate Services,Apple Distribution International,80060062,89.95,GBP
+BIS,EPSRC,19/05/2015,Conferences & Seminars,Admin Research Base Director,THE ROYAL ACADEMY OF ENGINEERING,86338138,9600,GBP
+BIS,EPSRC,19/05/2015,Other Programme Costs,NC ICT,European Science Foundation PROGRAMME,86357303,14503.26,EUR
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86477094,311.31,EUR
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,0.29,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,0.42,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,0.86,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,1.18,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,1.19,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,1.22,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,2.52,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,4.15,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,4.15,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,4.15,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,4.15,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,9,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,12.86,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,15.12,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,15.24,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,18.72,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,24.05,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,40.61,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,54.04,GBP
+BIS,EPSRC,19/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86494143,54.79,GBP
+BIS,EPSRC,19/05/2015,Other Programme Costs,NC ICT,University College London,86601063,125000,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86604424,66.2,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Maths,Non Employee Expenses Supplier,86604425,223.38,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Manufacturing,Non Employee Expenses Supplier,86604426,126,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Manufacturing,Non Employee Expenses Supplier,86604427,90.92,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86604428,311.2,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Programme Delivery Energy,Non Employee Expenses Supplier,86604429,320,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86604430,52.7,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Research Funding Programme,Non Employee Expenses Supplier,86604431,143.5,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86604432,35,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86604433,44.36,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86604434,201,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86604435,85.5,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86604436,77.5,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86604437,65.35,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86604438,61.2,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86604439,185.19,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86604440,83.2,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86604441,132.7,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86611171,160,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86611172,160,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86611173,160,GBP
+BIS,EPSRC,19/05/2015,Other Programme Costs,NC Physical Sciences,University of Durham,86611218,43653.91,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611236,123.2,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611237,86.5,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86611238,95.75,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611239,155.05,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611240,108.8,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611241,320,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611242,320,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611243,320,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611244,320,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611245,320,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611246,320,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611247,103.95,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611248,320,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611249,30.7,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611250,59.4,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611251,119.7,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611252,160,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611253,116,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611254,170.37,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611255,69.3,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611256,221.15,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86611258,66.8,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611259,38.65,GBP
+BIS,EPSRC,19/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611260,80,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611261,369.47,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611273,227.89,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611274,68.31,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611275,78.7,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611276,113.33,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611277,169.8,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611278,180.96,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611279,151.79,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611280,49.7,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611281,278.45,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611282,80.1,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611283,119.16,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611284,269.69,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611285,466.66,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Programme Delivery Physical Sciences,Non Employee Expenses Supplier,86611286,35.2,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611287,75.15,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611288,125.9,GBP
+BIS,EPSRC,19/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86611289,153.5,GBP
+BIS,EPSRC,19/05/2015,Marketing & PR,Communications and Stakeholder Engagement,Ministry of Justice (MOJ),86611405,504,GBP
+BIS,EPSRC,19/05/2015,Marketing & PR,Communications and Stakeholder Engagement,Ministry of Justice (MOJ),86611405,2376,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,86611465,24,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,86611465,2.8,GBP
+BIS,EPSRC,19/05/2015,Health & Safety (inc. Medicals & Opticians),Programme Delivery Energy,Unspecified,86611466,123,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,86611467,5,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,86611467,21,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Unspecified,86611468,2.8,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Unspecified,86611468,9.6,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Unspecified,86611468,21.4,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,86611468,5,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,86611468,20,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Unspecified,86611469,12,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Subsistence,Programme Delivery Physical Sciences,Unspecified,86611469,6.44,GBP
+BIS,EPSRC,19/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Unspecified,86611470,35.8,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Subsistence,EPSRC Corporate Services,Unspecified,86015479,153.3,GBP
+BIS,EPSRC,20/05/2015,Staff Training,Admin RCUK Strategy Unit,Unspecified,86102060,129,GBP
+BIS,EPSRC,20/05/2015,Staff Training,Admin RCUK Strategy Unit,Unspecified,86103060,129,GBP
+BIS,EPSRC,20/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472122,320,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86599070,-1.65,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86599070,-0.33,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86599070,94.98,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86599076,-1.65,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86599076,-0.33,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86599076,94.98,GBP
+BIS,EPSRC,20/05/2015,Marketing & PR,Communications and Stakeholder Engagement,Unspecified,86618122,5400,GBP
+BIS,EPSRC,20/05/2015,Agency Staff,JRS,Brook Street (Uk) Ltd,86618202,1.32,GBP
+BIS,EPSRC,20/05/2015,Agency Staff,JRS,Brook Street (Uk) Ltd,86618202,6.6,GBP
+BIS,EPSRC,20/05/2015,Agency Staff,JRS,Brook Street (Uk) Ltd,86618202,485.29,GBP
+BIS,EPSRC,20/05/2015,Agency Staff,JRS,Brook Street (Uk) Ltd,86618205,346.1,GBP
+BIS,EPSRC,20/05/2015,Printing & Stationery,JRS,POSITIVE MEDIA PROMOTIONS LTD,86618301,36,GBP
+BIS,EPSRC,20/05/2015,Printing & Stationery,JRS,POSITIVE MEDIA PROMOTIONS LTD,86618301,312,GBP
+BIS,EPSRC,20/05/2015,Conferences & Seminars,KTEIG Projects,SIMPLY CHANGE LTD,86618403,880.2,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,Energy Energy,University of Surrey,86638077,2786,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,Energy Physical Sciences,University of Surrey,86638077,1,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,Energy Physical Sciences,University of Surrey,86638077,3309,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,Healthcare Healthcare,University of Surrey,86638077,3780,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,NC Engineering,University of Surrey,86638077,2005,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,NC ICT,University of Surrey,86638077,3780,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,NC ICT,University of Surrey,86638077,4457,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,NC ICT,University of Surrey,86638077,65790,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,NC Physical Sciences,University of Surrey,86638077,50026,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,Quantum Technology Programme,University of Surrey,86638077,18614,GBP
+BIS,EPSRC,20/05/2015,Other Programme Costs,NC Physical Sciences,University of Southampton,86638081,117836.15,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Unspecified,86639094,21.9,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Subsistence,Programme Delivery Maths,Unspecified,86639094,10,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Subsistence,Programme Delivery Maths,Unspecified,86639094,112.48,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Subsistence,Admin Research Base Director,Unspecified,86639095,4.2,GBP
+BIS,EPSRC,20/05/2015,T&S UK - Subsistence,Admin Research Base Director,Unspecified,86639095,5,GBP
+BIS,EPSRC,20/05/2015,Legal & Professional Services,Programme Delivery Maths,Eversheds,86661060,20200.8,GBP
+BIS,EPSRC,21/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86476060,73,GBP
+BIS,EPSRC,21/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86476068,73,GBP
+BIS,EPSRC,21/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86477311,73,GBP
+BIS,EPSRC,21/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,86477330,73,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,0.29,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,0.41,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,0.42,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,1.02,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,2.35,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,2.38,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,3.07,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,3.67,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,4.15,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,4.15,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,4.15,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,4.15,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,4.75,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,6.24,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,6.43,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,9,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,15.12,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,18.01,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,20.12,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,24.05,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,26.66,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,27.6,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,48.1,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86619194,54.79,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86661125,1.31,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86661125,6.55,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86661125,112.14,GBP
+BIS,EPSRC,21/05/2015,Printing & Stationery,Communications and Stakeholder Engagement,Banner Business Services Limited,86668159,8.23,GBP
+BIS,EPSRC,21/05/2015,Meetings & Catering,EPSRC Corporate Services,Banner Business Services Limited,86668160,9.04,GBP
+BIS,EPSRC,21/05/2015,Meetings & Catering,EPSRC Corporate Services,Banner Business Services Limited,86668160,46.1,GBP
+BIS,EPSRC,21/05/2015,Hospitality,Programme Delivery Manufacturing,University of Liverpool,86673089,823.36,GBP
+BIS,EPSRC,21/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,86673140,145.78,GBP
+BIS,EPSRC,21/05/2015,International Subscriptions,Programme Delivery Energy,Low Carbon Vehicle Partnership,86673298,372,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86675063,16.8,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86675063,50.39,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86675065,-49.26,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86675065,-9.85,GBP
+BIS,EPSRC,21/05/2015,Consumables,JRS,Antalis McNaughton Limited,86675065,111.5,GBP
+BIS,EPSRC,21/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685077,160,GBP
+BIS,EPSRC,21/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685079,160,GBP
+BIS,EPSRC,21/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685080,160,GBP
+BIS,EPSRC,21/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685081,160,GBP
+BIS,EPSRC,21/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685083,160,GBP
+BIS,EPSRC,21/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685189,80,GBP
+BIS,EPSRC,21/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685191,80,GBP
+BIS,EPSRC,21/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,86689116,103.44,GBP
+BIS,EPSRC,21/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,86689120,1166.24,GBP
+BIS,EPSRC,21/05/2015,Recruitment Costs,EPSRC Corporate Services,Agenda Resource Management Ltd,86689123,103.44,GBP
+BIS,EPSRC,21/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Unspecified,86690074,20.08,GBP
+BIS,EPSRC,21/05/2015,T&S UK - Subsistence,Programme Delivery Maths,Unspecified,86690074,2.75,GBP
+BIS,EPSRC,21/05/2015,T&S UK - Subsistence,Programme Delivery Maths,Unspecified,86690074,10,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,82047146,-80,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,82047146,160,GBP
+BIS,EPSRC,22/05/2015,Marketing & PR,Communications and Stakeholder Engagement,T4 Cameras Ltd,85033060,624,GBP
+BIS,EPSRC,22/05/2015,Marketing & PR,Communications and Stakeholder Engagement,T4 Cameras Ltd,85039060,132,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,85376103,160,GBP
+BIS,EPSRC,22/05/2015,Other Staff Benefits,EPSRC Corporate Services,Fruit Drop,86462112,240,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472116,320,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472117,320,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),TrueTrust Ltd,86472119,320,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86472123,320,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86473085,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86473086,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86473087,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86473088,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86473089,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86611170,160,GBP
+BIS,EPSRC,22/05/2015,Contract Staff,Digital Communications,Capita Business Services Ltd,86618330,5804.93,GBP
+BIS,EPSRC,22/05/2015,Other Programme Costs,Energy Multidisciplinary Applications,Energy Technologies Institute LLP,86673173,291700,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685078,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685082,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685084,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685085,160,GBP
+BIS,EPSRC,22/05/2015,Fees (Including College Members),Admin Peer Review and Output (excluding external panel member fees),Unspecified,86685190,80,GBP
+BIS,EPSRC,22/05/2015,Staff Relocation,EPSRC Corporate Services,Klaw Services Group,86737137,1297.2,GBP
+BIS,EPSRC,22/05/2015,Staff Relocation,EPSRC Corporate Services,Klaw Services Group,86737137,2716.2,GBP
+BIS,EPSRC,22/05/2015,Staff Relocation,EPSRC Corporate Services,Klaw Services Group,86737137,3158.4,GBP
+BIS,EPSRC,22/05/2015,Printing & Stationery,JRS,Premier Paper Group Ltd,86737237,297.36,GBP
+BIS,EPSRC,22/05/2015,UK - Professional Memberships & Subscriptions,Director BI/BR,Association for University Research and Industry Links (Auril),86737475,795,GBP
+BIS,EPSRC,22/05/2015,Secondments,Admin Business Innovation Director,University of Glasgow,86737481,24867.49,GBP
+BIS,EPSRC,22/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Unspecified,86783310,30,GBP
+BIS,EPSRC,22/05/2015,T&S UK - Subsistence,Programme Delivery Maths,Unspecified,86783310,10,GBP
+BIS,EPSRC,22/05/2015,T&S UK - Subsistence,Programme Delivery Maths,Unspecified,86783310,127.9,GBP
+BIS,EPSRC,26/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,P&MM Limited,86638134,16.2,GBP
+BIS,EPSRC,26/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,P&MM Limited,86672066,39.96,GBP
+BIS,EPSRC,26/05/2015,Staff Training,Digital Communications,Lynda.com,86737257,1335.03,USD
+BIS,EPSRC,26/05/2015,T&S UK - Public Transport,Newton Programme Management Team,V Cars Ltd,86783065,12.24,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Public Transport,Programme Delivery Energy,V Cars Ltd,86783065,135,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,V Cars Ltd,86783065,154.8,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Public Transport,Programme Delivery ICT,V Cars Ltd,86783065,124.32,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,V Cars Ltd,86783065,9.36,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Vehicle Hire,Newton Programme Management Team,V Cars Ltd,86783065,24.12,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Vehicle Hire,Newton Programme Management Team,V Cars Ltd,86783065,144,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Vehicle Hire,Programme Delivery Energy,V Cars Ltd,86783065,823.44,GBP
+BIS,EPSRC,26/05/2015,T&S UK - Vehicle Hire,Programme Delivery Physical Sciences,V Cars Ltd,86783065,9.72,GBP
+BIS,EPSRC,26/05/2015,Fees (Including College Members),Admin External Panel Member payments,Unspecified,86783535,160,GBP
+BIS,EPSRC,26/05/2015,Fees (Including College Members),Admin External Panel Member payments,Unspecified,86783536,160,GBP
+BIS,EPSRC,27/05/2015,Staff Relocation,EPSRC Corporate Services,Banner Business Services Limited,86825197,318.48,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Energy,Non Employee Expenses Supplier,86949060,114.6,GBP
+BIS,EPSRC,27/05/2015,Fees (Including College Members),Programme Delivery Energy,Non Employee Expenses Supplier,86949061,320,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Mileage,Chief Executive,Non Employee Expenses Supplier,86949062,102.6,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Public Transport,Chief Executive,Non Employee Expenses Supplier,86949063,108.5,GBP
+BIS,EPSRC,27/05/2015,Fees (Including College Members),Programme Delivery Energy,Non Employee Expenses Supplier,86949064,320,GBP
+BIS,EPSRC,27/05/2015,Secondments,Admin RCUK Strategy Unit,National Trust,86961060,11000.7,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86969060,47.7,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Associate Director Operations,Non Employee Expenses Supplier,86969061,29.7,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86969062,66.1,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Engineering,Non Employee Expenses Supplier,86969063,161.8,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86969064,95.15,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin Peer Review and Output (excluding external panel member fees),Non Employee Expenses Supplier,86969065,63.8,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Healthcare,Non Employee Expenses Supplier,86969066,42.5,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Healthcare,Non Employee Expenses Supplier,86969067,98.2,GBP
+BIS,EPSRC,27/05/2015,Fees (Including College Members),Programme Delivery Healthcare,Non Employee Expenses Supplier,86969068,320,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Healthcare,Non Employee Expenses Supplier,86969069,107,GBP
+BIS,EPSRC,27/05/2015,Fees (Including College Members),Programme Delivery Healthcare,Non Employee Expenses Supplier,86969070,320,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Healthcare,Non Employee Expenses Supplier,86969071,181.8,GBP
+BIS,EPSRC,27/05/2015,Fees (Including College Members),Programme Delivery Healthcare,Non Employee Expenses Supplier,86969072,320,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Programme Delivery Healthcare,Non Employee Expenses Supplier,86969073,41.3,GBP
+BIS,EPSRC,27/05/2015,Fees (Including College Members),Programme Delivery Healthcare,Non Employee Expenses Supplier,86969074,320,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969075,101.7,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969076,60.6,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969077,30.3,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969078,109.6,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969079,66.15,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969080,77.15,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969081,60.3,GBP
+BIS,EPSRC,27/05/2015,Non-staff travel and subsistance,Admin RCUK Strategy Unit,Non Employee Expenses Supplier,86969082,90.8,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Accommodation,Programme Delivery Manufacturing,University of Newcastle Upon Tyne,87010060,146,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,University of Newcastle Upon Tyne,87010060,187.5,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,87058072,2.6,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,87058072,32.9,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,87058072,2.65,GBP
+BIS,EPSRC,27/05/2015,Health & Safety (inc. Medicals & Opticians),Programme Delivery Healthcare,Unspecified,87058073,39.95,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Vehicle Hire,Programme Delivery Healthcare,Unspecified,87058073,33.33,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Public Transport,Programme Delivery Capability,Unspecified,87058074,28.4,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Capability,Unspecified,87058074,7.09,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Capability,Unspecified,87058074,8.84,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Capability,Unspecified,87058074,10,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Capability,Unspecified,87058074,25.04,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,87058075,2.3,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,87058075,5,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,87058075,6.59,GBP
+BIS,EPSRC,27/05/2015,Consumables,JRS,Presco,87168060,29.64,GBP
+BIS,EPSRC,27/05/2015,Consumables,JRS,Presco,87172060,8.4,GBP
+BIS,EPSRC,27/05/2015,Consumables,JRS,Presco,87172060,11.94,GBP
+BIS,EPSRC,27/05/2015,Consumables,JRS,Presco,87172060,24.48,GBP
+BIS,EPSRC,27/05/2015,Consumables,JRS,Presco,87172060,135.96,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Engineering,Unspecified,87259079,6.25,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,87259080,6.8,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,87259080,2.6,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Unspecified,87259081,12.1,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,87259081,5,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Manufacturing,Unspecified,87259081,125.4,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,87259082,3.64,GBP
+BIS,EPSRC,27/05/2015,T&S UK - Subsistence,Programme Delivery Healthcare,Unspecified,87259082,10.7,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Peer Review and Output (excluding external panel member fees),Unspecified,72415,-343.91,GBP
+BIS,EPSRC,28/05/2015,SSC Service Charges,PSU IS,Kelway (UK) Limited,80742981,0.18,GBP
+BIS,EPSRC,28/05/2015,SSC Service Charges,PSU IS,Kelway (UK) Limited,80742981,0.9,GBP
+BIS,EPSRC,28/05/2015,SSC Service Charges,PSU IS,Kelway (UK) Limited,80742981,361.08,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),De Vere Hotel Swindon,82288063,-112,GBP
+BIS,EPSRC,28/05/2015,Meetings & Catering,Communications and Stakeholder Engagement,UOE Accommodation Limited T/A Edinburgh First,82980318,4152,GBP
+BIS,EPSRC,28/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86694179,0.62,GBP
+BIS,EPSRC,28/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86694179,400.74,GBP
+BIS,EPSRC,28/05/2015,Printing & Stationery,EPSRC Corporate Services,Banner Business Services Limited,86825196,320.59,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),De Vere Hotel Swindon,87012060,120,GBP
+BIS,EPSRC,28/05/2015,Conferences & Seminars,Director BI/BR,PraxisUnico,87018063,725.7,GBP
+BIS,EPSRC,28/05/2015,Computer Software Licences,EPSRC Corporate Services,Research Fish Ltd,87274587,13716,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283371,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283372,59.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283373,54.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283374,29.54,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283375,59.49,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283376,285.4,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283376,362.23,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283377,17.23,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283377,2019.76,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283378,88.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283379,42.41,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283380,34.82,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283381,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283382,33.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283383,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283384,36.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283385,32.53,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283386,89.23,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283387,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283388,7.8,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283388,230.41,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283389,6.17,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283390,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283391,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Chief Executive,Company Barclaycard Commercial,87283392,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283393,36.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283394,35.44,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283395,28.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283396,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Capability,Company Barclaycard Commercial,87283397,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Capability,Company Barclaycard Commercial,87283398,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283399,52.9,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283400,47.03,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283401,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283402,59.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283403,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283404,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283405,59.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283406,36.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283407,21.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283408,8.98,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283409,87.95,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283410,83.44,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283411,79.87,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283412,171.9,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283413,36.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283414,87.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283415,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283416,6.68,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283417,197.26,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283418,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283419,55.19,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283420,43.62,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283421,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Chist,Company Barclaycard Commercial,87283422,75.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Director BI/BR,Company Barclaycard Commercial,87283423,87.04,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283424,191.76,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283425,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283426,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283427,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283428,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283429,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283430,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283431,33.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283432,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283433,75.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283434,46.02,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283435,15.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283436,114.2,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283437,61.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283438,74.26,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283439,40.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283440,154.82,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283441,26.84,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283442,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283443,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283444,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283445,40.51,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283446,6.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283446,102.66,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Other Charges,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283447,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283448,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Chief Executive,Company Barclaycard Commercial,87283449,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283450,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283451,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283452,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283453,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Other Charges,Programme Delivery ICT,Company Barclaycard Commercial,87283454,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Healthcare,Company Barclaycard Commercial,87283455,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283456,40.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283457,36.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283458,114.4,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283459,26.25,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283460,19.26,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283461,10.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283462,64.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283463,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283464,19.26,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283465,15.68,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283466,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283467,36.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283468,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283469,34.82,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283470,70.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283471,24.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283472,20.66,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283473,83.44,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283474,83.44,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283475,21.55,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283476,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283477,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283478,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283479,33.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283480,21.55,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283481,56.99,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283482,-50.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283483,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283484,38.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283485,56.79,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283486,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283487,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283488,21.35,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283489,73.26,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283490,4.93,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283491,3.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283492,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283493,28.55,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283494,13.97,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283495,70.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283496,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283497,46.91,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283498,69.48,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283499,36.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283500,39.82,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283501,60.29,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283502,14.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283503,14.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Quantum Technology Programme,Company Barclaycard Commercial,87283504,88.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283505,73.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283506,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283507,26.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283508,88.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283509,25.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283510,45,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283511,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283512,162.17,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283513,128.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283514,98.34,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283515,98.42,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283516,40.51,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283517,169.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Research Careers and Diversity,Company Barclaycard Commercial,87283518,25.04,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Research Careers and Diversity,Company Barclaycard Commercial,87283519,53.91,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283520,110.01,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Newton Programme Management Team,Company Barclaycard Commercial,87283521,19.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283522,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283523,47.52,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283524,24.94,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283525,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283526,33.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283527,24.94,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283528,45.42,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283529,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283530,33.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,External communications,Company Barclaycard Commercial,87283531,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283532,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,External communications,Company Barclaycard Commercial,87283533,40.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283534,5.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283534,60.17,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283535,5.45,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283535,54.99,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283536,15.2,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283536,143.78,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283537,5.59,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283537,79.86,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Impact,Company Barclaycard Commercial,87283538,5.7,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Impact,Company Barclaycard Commercial,87283538,95.98,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283539,5.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283539,40.79,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283540,5.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283540,40.79,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283541,5.58,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283541,76.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283542,5.45,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283542,54.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283543,5.45,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283543,54.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283544,5.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283544,58.13,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283545,5.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283545,58.13,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283546,5.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283546,40.79,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283547,159.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283548,87.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283549,87.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283550,77.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Newton Programme Management Team,Company Barclaycard Commercial,87283551,141.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Newton Programme Management Team,Company Barclaycard Commercial,87283552,141.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283553,-52.12,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Capability,Company Barclaycard Commercial,87283554,-114.3,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Capability,Company Barclaycard Commercial,87283555,-114.3,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283556,-19.52,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283557,-3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283558,-64.26,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283559,-43.2,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283560,-47.12,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283561,-113.7,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283562,-50.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283563,-68.18,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283564,-50.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283565,-12.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283566,-114.3,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283567,89.39,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283568,89.39,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283569,89.39,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283570,89.39,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283571,78.91,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283572,162.34,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283573,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283574,6.17,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283575,3.08,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,External communications,Company Barclaycard Commercial,87283576,9.86,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283577,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283578,166.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283579,59.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283580,33.53,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283581,109,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283582,83.44,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283583,30.44,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283584,69.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283585,86.25,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283586,73.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283587,59.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283588,13.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283589,189.27,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283590,3.08,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283591,83.44,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283592,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283593,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283594,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283595,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283596,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283597,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283598,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283599,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283600,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283601,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283602,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283603,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283604,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283605,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283606,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283607,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283608,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283609,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283610,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283611,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283612,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,PSU IS,Company Barclaycard Commercial,87283613,44.02,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,PSU IS,Company Barclaycard Commercial,87283614,29.95,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283615,129.18,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283616,30.04,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283617,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283618,43.52,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283619,59.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283620,25.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283621,30.04,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283622,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283623,45,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283624,91.85,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283625,7.13,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery ICT,Company Barclaycard Commercial,87283625,118.77,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283626,83.55,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283627,157.66,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283628,191.76,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283629,111.68,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283630,102.91,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283631,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283632,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283633,88.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283634,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283635,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283636,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283637,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283638,26.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283639,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283640,26.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283641,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283642,58.99,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283643,56.2,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283644,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283645,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283646,40.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283647,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,EPSRC Corporate Services,Company Barclaycard Commercial,87283648,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283649,33.02,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283650,31.54,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283651,123.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283652,32.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283653,31.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283654,-113.7,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283655,-52.12,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283656,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283657,6.46,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283657,117.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283658,71.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283659,17.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283660,17.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283661,17.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283662,17.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283663,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283664,17.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283665,17.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283666,6.46,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Maths,Company Barclaycard Commercial,87283666,117.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283667,69.48,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283668,47.52,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Accommodation,Director RB/UR,Company Barclaycard Commercial,87283669,161.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283670,151.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283671,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Other Charges,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283672,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Other Charges,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283673,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283674,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283675,9.85,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283676,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283677,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283678,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283679,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283680,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283681,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283682,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283683,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283684,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283685,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283686,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283687,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283688,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283689,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283690,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283691,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Impact,Company Barclaycard Commercial,87283692,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283693,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283694,10.27,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283695,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283696,26.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283697,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283698,26.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283699,12.56,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283700,18.46,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283701,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283702,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283703,89.23,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283704,63.48,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283705,41.42,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283706,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283707,34.18,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283707,2283.06,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283708,15.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283709,86.02,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Chief Executive,Company Barclaycard Commercial,87283710,229,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Chief Executive,Company Barclaycard Commercial,87283711,210.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283712,102.44,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283713,140.53,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283714,76.43,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283715,140.53,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283716,54.4,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283717,54.4,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283718,64.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Other Charges,Programme Delivery ICT,Company Barclaycard Commercial,87283719,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283720,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283721,12.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283722,173.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283723,-143.08,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283724,21.55,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283725,-22.45,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283726,-12.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283727,-50.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283728,22.85,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283729,31.54,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283731,-58.39,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283732,116.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283733,-17.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283734,14.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283735,206.85,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283736,116.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283737,116.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283738,25.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283739,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283740,42.41,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283741,42.41,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Newton Programme Management Team,Company Barclaycard Commercial,87283742,-19.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,External communications,Company Barclaycard Commercial,87283743,32.33,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Newton Programme Management Team,Company Barclaycard Commercial,87283744,19.05,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Newton Programme Management Team,Company Barclaycard Commercial,87283744,2321.8,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283745,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283746,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283747,66.09,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283748,26.54,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283749,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283750,70.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283751,63.97,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283752,112.89,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283753,100.62,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283754,377.04,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283755,29.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283756,43.62,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Newton Programme Management Team,Company Barclaycard Commercial,87283757,10.68,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Newton Programme Management Team,Company Barclaycard Commercial,87283757,709.76,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283758,14.46,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283759,32.92,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283760,31.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283761,33.25,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283762,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283763,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283764,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283765,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283766,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283767,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283768,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283769,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283770,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283771,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283772,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery ICT,Company Barclaycard Commercial,87283773,6.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,External communications,Company Barclaycard Commercial,87283774,6.17,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283775,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Accommodation,Programme Delivery Impact,Company Barclaycard Commercial,87283776,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283777,25.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283778,162.17,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Newton Programme Management Team,Company Barclaycard Commercial,87283779,114.87,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Accommodation,Chist,Company Barclaycard Commercial,87283780,313.56,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283781,138.56,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283782,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283783,21.55,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283784,34.82,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283785,70.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283786,14.26,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Director BI/BR,Company Barclaycard Commercial,87283787,9.68,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Director BI/BR,Company Barclaycard Commercial,87283788,9.58,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Director BI/BR,Company Barclaycard Commercial,87283789,38.93,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Director BI/BR,Company Barclaycard Commercial,87283790,33.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Director BI/BR,Company Barclaycard Commercial,87283791,32.92,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283792,33.53,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283793,94.83,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Chief Executive,Company Barclaycard Commercial,87283794,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283795,88.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283796,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283797,71.97,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283798,79.87,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Infrastructure,Company Barclaycard Commercial,87283799,18.46,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283800,60.98,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283801,22.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283802,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Performance and Evaluation,Company Barclaycard Commercial,87283803,7.26,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Performance and Evaluation,Company Barclaycard Commercial,87283803,140.21,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283804,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Performance and Evaluation,Company Barclaycard Commercial,87283805,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283806,109,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283807,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283808,47.52,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283809,25.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283810,142.95,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283811,52.9,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283812,47.03,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283813,100.03,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283814,27.64,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283815,56.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283816,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery GU,Company Barclaycard Commercial,87283817,49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery GU,Company Barclaycard Commercial,87283818,48.02,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283819,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283820,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283821,163.31,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283822,47.52,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283823,64.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,RCUK-Newton Activity,Company Barclaycard Commercial,87283824,133.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283825,54.4,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283826,111.4,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283827,89.23,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283828,89.23,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283829,105.2,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Communications and Stakeholder Engagement,Company Barclaycard Commercial,87283830,78.67,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283831,87.95,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283832,54.4,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283833,32.53,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283834,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283835,33.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283836,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283837,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283838,59.49,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Public Transport,International offices,Company Barclaycard Commercial,87283839,325.6,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283840,5.78,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283841,2.19,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Director BI/BR,Company Barclaycard Commercial,87283842,64.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283843,70.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283844,153.77,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283845,153.77,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283846,130.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283847,157.56,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283848,157.56,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283849,157.56,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Other Charges,Programme Delivery Energy,Company Barclaycard Commercial,87283850,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283851,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Public Engagement with Research,Company Barclaycard Commercial,87283852,9.85,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283853,33.83,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283854,29.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283855,15.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283856,18.46,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283857,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283858,110.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283859,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283860,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283861,15.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283862,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283863,29.15,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283864,96.33,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283865,57.19,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283866,6.1,GBP
+BIS,EPSRC,28/05/2015,T&S Overseas - Flights,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283866,57.2,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283867,40.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283868,36.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283869,54.59,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283870,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283871,92.18,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283872,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283873,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Energy,Company Barclaycard Commercial,87283874,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Newton Programme Management Team,Company Barclaycard Commercial,87283875,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283876,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Engineering,Company Barclaycard Commercial,87283877,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283878,101.72,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283879,110.61,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283880,10.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Healthcare,Company Barclaycard Commercial,87283881,96.33,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283882,64.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283883,27.64,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283884,32.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283885,57.5,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283886,104.9,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283887,89.23,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283888,25.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283889,25.16,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283890,40.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283891,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283892,56.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Maths,Company Barclaycard Commercial,87283893,56.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283894,9.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Healthcare,Company Barclaycard Commercial,87283895,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Impact,Company Barclaycard Commercial,87283896,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283897,8.01,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283898,52.9,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283899,16.27,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283900,54.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283901,29.15,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Maths,Company Barclaycard Commercial,87283902,114.77,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283903,87.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283904,87.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283905,87.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283906,87.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283907,87.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283908,87.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283909,87.24,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283910,40.32,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283911,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283912,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery ICT,Company Barclaycard Commercial,87283913,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Company Barclaycard Commercial,87283914,9.85,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283915,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283916,21.55,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283917,87.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Manufacturing,Company Barclaycard Commercial,87283918,39.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery GU,Company Barclaycard Commercial,87283919,21.05,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery GU,Company Barclaycard Commercial,87283920,19.97,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283921,29.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283922,43.62,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283923,82.94,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Chief Executive,Company Barclaycard Commercial,87283924,82.94,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283925,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283926,19.36,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283927,32.92,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283928,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283929,36.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin RCUK Strategy Unit,Company Barclaycard Commercial,87283930,133.96,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283931,29.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283932,33.83,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283933,16.81,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283934,127.37,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283935,65.49,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Newton Programme Management Team,Company Barclaycard Commercial,87283936,33.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283937,15.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283938,29.75,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Research Base Director,Company Barclaycard Commercial,87283939,33.83,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Impact,Company Barclaycard Commercial,87283940,7.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Impact,Company Barclaycard Commercial,87283940,330.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Engineering,Company Barclaycard Commercial,87283941,16.76,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283942,70.61,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Programme Delivery Impact,Company Barclaycard Commercial,87283943,4.93,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Accommodation,Chief Executive,Company Barclaycard Commercial,87283944,3.07,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283945,32.73,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283946,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283947,26.54,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Energy,Company Barclaycard Commercial,87283948,18.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283949,28.04,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Performance and Evaluation,Company Barclaycard Commercial,87283950,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283951,70.57,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Impact,Company Barclaycard Commercial,87283952,42.41,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Capability,Company Barclaycard Commercial,87283953,58.79,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Capability,Company Barclaycard Commercial,87283954,37.34,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Flights,Programme Delivery Capability,Company Barclaycard Commercial,87283955,337.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Digital Economy,Company Barclaycard Commercial,87283956,75.87,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283957,68.47,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Quantum Technology,Company Barclaycard Commercial,87283958,36.74,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Business Innovation Director,Company Barclaycard Commercial,87283959,144.94,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283960,30.04,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283961,64.88,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Programme Delivery Physical Sciences,Company Barclaycard Commercial,87283962,133.36,GBP
+BIS,EPSRC,28/05/2015,Corporate Events,Programme Delivery Energy,Calder Conference Ltd,87283989,346.19,GBP
+BIS,EPSRC,28/05/2015,Corporate Events,Programme Delivery Energy,Calder Conference Ltd,87283989,1937.99,GBP
+BIS,EPSRC,28/05/2015,Corporate Events,Programme Delivery Energy,Calder Conference Ltd,87283993,114,GBP
+BIS,EPSRC,28/05/2015,Meetings & Catering,Strategy,Hilton Manchester Deansgate,87284077,0.03,GBP
+BIS,EPSRC,28/05/2015,Meetings & Catering,Strategy,Hilton Manchester Deansgate,87284077,0.17,GBP
+BIS,EPSRC,28/05/2015,Meetings & Catering,Strategy,Hilton Manchester Deansgate,87284077,3244.8,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Peer Review and Output (excluding external panel member fees),Unspecified,87296063,23.91,GBP
+BIS,EPSRC,28/05/2015,T&S UK - Public Transport,Admin Peer Review and Output (excluding external panel member fees),Unspecified,87296607,-23.91,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,82533472,18.54,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,82533472,127.46,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,82533479,64.17,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,82533479,81.83,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,82662080,14.2,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Jurys Inns Group Ltd,82662080,131.8,GBP
+BIS,EPSRC,29/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,Benenden Healthcare Society,84170064,5964.66,GBP
+BIS,EPSRC,29/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,Abbey Business Equipment Ltd,86661065,180,GBP
+BIS,EPSRC,29/05/2015,Recruitment Costs,EPSRC Corporate Services,Quest Partnership Ltd,86661093,3471.6,GBP
+BIS,EPSRC,29/05/2015,Health & Safety (inc. Medicals & Opticians),EPSRC Corporate Services,Abbey Business Equipment Ltd,86737206,60,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Marsh Farm Hotel,87277063,105,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Marsh Farm Hotel,87277067,95,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Marsh Farm Hotel,87277068,105,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Marsh Farm Hotel,87278060,105,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Marsh Farm Hotel,87279060,105,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Marsh Farm Hotel,87279066,95,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Accommodation,Admin Peer Review and Output (excluding external panel member fees),Marsh Farm Hotel,87279067,105,GBP
+BIS,EPSRC,29/05/2015,Other Staff Benefits,EPSRC Corporate Services,P&MM Limited,87297075,680,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,87300602,3.79,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Subsistence,Programme Delivery Energy,Unspecified,87300602,10,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Vehicle Hire,Programme Delivery Energy,Unspecified,87300602,21.25,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Subsistence,EPSRC Corporate Services,Unspecified,87300603,20,GBP
+BIS,EPSRC,29/05/2015,T&S UK - Subsistence,EPSRC Corporate Services,Unspecified,87300603,80.9,GBP
+BIS,EPSRC,29/05/2015,Telecoms - Calls Fax & internet Costs,EPSRC Corporate Services,Unspecified,87300603,1,GBP
