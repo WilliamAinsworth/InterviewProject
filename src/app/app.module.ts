@@ -7,12 +7,16 @@ import {PieChartComponent} from "./data-viewer/pie-chart/pie-chart.component";
 import { DataControllerComponent } from './data/data-controller/data-controller.component';
 import {MatButtonModule} from "@angular/material/button";
 import {MatCardModule} from "@angular/material/card";
+import {MatSliderModule} from "@angular/material/slider";
+import {FormsModule} from "@angular/forms";
+import { LineChartComponent } from './data-viewer/line-chart/line-chart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PieChartComponent,
     DataControllerComponent,
+    LineChartComponent,
   ],
   imports: [
     BrowserModule,
@@ -20,6 +24,8 @@ import {MatCardModule} from "@angular/material/card";
     HttpClientModule,
     MatButtonModule,
     MatCardModule,
+    MatSliderModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

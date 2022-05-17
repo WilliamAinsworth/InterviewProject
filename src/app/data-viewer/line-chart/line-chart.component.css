@@ -1,0 +1,10 @@
+#lineChart {
+  display: block;
+}
+
+mat-card {
+  width: 60vw;
+  display: inline-block;
+}
+
+

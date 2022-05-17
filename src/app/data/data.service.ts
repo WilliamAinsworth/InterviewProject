@@ -13,7 +13,6 @@ export interface Expense {
   Amount: string,
   InvoiceCurrencyUnit: string
 }
-const EXPECTED_LAST_HEADER = 'Invoice Currency Unit';
 
 @Injectable({
   providedIn: 'root'
@@ -41,28 +40,46 @@ export class DataService {
   public csvHeaders: string[];
   public currentDataIndex: number = 0;
   private reRenderEvent = new Event('RE-RENDER');
-  private rawDataCache: (Expense[])[];
 
-  constructor(private http: HttpClient) { }
-
-  public getCurrentData = () => {
-    // if (this.rawDataCache[this.currentDataIndex]) {
-    //   return of(this.rawDataCache[this.currentDataIndex]);
-    // } else {
-      return this.getRawData();
-    // }
+  constructor(private http: HttpClient) {
   }
 
-  public getOccurrences = (heading: keyof Expense): Observable<{ [x: string]: number; }> => {
-    let occurrences: { [x: string]: number; } = {};
+  public nextData(): boolean {
+    this.currentDataIndex++;
+    document.dispatchEvent(this.reRenderEvent);
+    return this.currentDataIndex === this.dataURLs.length - 1;
+  }
 
-    return this.getCurrentData().pipe(map((expenses: Expense[]) => {
+  public prevData(): boolean {
+    this.currentDataIndex--;
+    document.dispatchEvent(this.reRenderEvent);
+    return this.currentDataIndex === 0;
+  }
+
+  public getOccurrence = (heading: keyof Expense): Observable<{ [x: string]: number; }> => {
+    let occurrences: { [x: string]: number; } = {};
+    return this.getRawData().pipe(map((expenses: Expense[]) => {
       expenses.forEach((expense: Expense) => {
         let value = expense[heading];
         occurrences[value] = occurrences[value] + 1 || 1;
       })
       return occurrences;
     }))
+  }
+
+  public getExpensesPerDate = (): Observable<{ [x: string]: number; }> => {
+    let accExpenses: { [x: string]: number; } = {};
+    return this.getRawData().pipe(map( (expenses: Expense[]) => {
+      expenses.forEach((expense: Expense) => {
+        accExpenses[expense.Date] = accExpenses[expense.Date] + +expense.Amount || +expense.Amount;
+      })
+      return accExpenses;
+    }))
+  }
+
+  private getRawData = (): Observable<Expense[]> => {
+    return this.http.get(this.dataURLs[this.currentDataIndex], {responseType: 'text'})
+      .pipe(map(data => (this.csvToJson(data) as Expense[])));
   }
 
   private csvToJson = (csv: string) => {
@@ -81,23 +98,9 @@ export class DataService {
         const toAdd = {};
         // @ts-ignore
         toAdd[this.csvHeaders[i]] = cur;
-        return { ...acc, ...toAdd };
-        }, {});
-      });
+        return {...acc, ...toAdd};
+      }, {});
+    });
   }
 
-  private getRawData = (): Observable<Expense[]> => {
-    return this.http.get(this.dataURLs[this.currentDataIndex], { responseType: 'text' })
-      .pipe(map(data => (this.csvToJson(data) as Expense[])));
-  }
-
-  public nextData(): boolean  {
-    this.currentDataIndex++;
-    return this.currentDataIndex === this.dataURLs.length - 1;
-  }
-
-  public prevData(): boolean {
-    this.currentDataIndex--;
-    return this.currentDataIndex === 0;
-  }
 }

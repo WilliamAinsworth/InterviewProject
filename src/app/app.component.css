@@ -1,22 +1,9 @@
-.container {
+.charts {
   display: flex;
-  background: darkgrey;
-  height: 100%;
-  width: 100%;
-
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
+  padding: 1rem;
 }
 
-header, footer {
-  background: royalblue;
-  height: 4rem;
-  width: 100%;
-}
+.controls {
 
-.summary, .charts {
-  height: 25rem;
-  width: 90%;
-  background: white;
 }

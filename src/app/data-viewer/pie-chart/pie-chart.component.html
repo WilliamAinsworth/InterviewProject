@@ -1,8 +1,22 @@
-<button mat-button (click)="incrementPieSlices()"> + </button>
-<button mat-button (click)="decrementPieSlices()"> - </button>
-{{pieSlices}}
-<div id="pieChart">
-  <canvas id="pieChartCanvas"></canvas>
+<mat-card>
 
-</div>
+  <mat-card-title> Suppliers </mat-card-title>
 
+  <div id="pieChart">
+    <canvas id="pieChartCanvas"></canvas>
+  </div>
+
+  <div class="pie-controls">
+    <mat-slider
+      thumbLabel
+      min="2"
+      max="10"
+      step="1"
+      tickInterval="1"
+      (input)="onPieSliceChange($event)"
+      [(ngModel)]="pieSlices">
+    </mat-slider>
+    No. Pie Slices: {{pieSlices}}
+  </div>
+
+</mat-card>

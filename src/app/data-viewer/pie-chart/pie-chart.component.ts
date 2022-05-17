@@ -1,6 +1,8 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, Input, OnDestroy, OnInit} from '@angular/core';
 import {Chart, registerables} from 'chart.js';
 import {DataService} from "../../data/data.service";
+import {MatSliderChange} from "@angular/material/slider";
+import {Subscription} from "rxjs";
 
 Chart.register(...registerables);
 
@@ -9,27 +11,53 @@ Chart.register(...registerables);
   templateUrl: './pie-chart.component.html',
   styleUrls: ['./pie-chart.component.css']
 })
-export class PieChartComponent implements OnInit {
+export class PieChartComponent implements OnInit, OnDestroy {
 
   @Input() pieSlices: number = 4;
+  // TODO can't seem to use these as inputs to the Material Slider, possible bug
+  public static MAX_PIE_SLICES = 10;
+  public static MIN_PIE_SLICES = 2;
+
   private expenseTypes: string[] = [];
   private occurrences: number[] = [];
   private colours: string[];
   private chartRef: any;
+  private otherData: any[];
+  private dataSubscription: Subscription;
 
   constructor(private dataService: DataService) {
     document.addEventListener('RE-RENDER', this.ngOnInit);
   }
 
-  ngOnInit(): void {
+  ngOnInit() {
     this.getData();
+
+  }
+
+  ngOnDestroy() {
+    this.dataSubscription.unsubscribe();
+    this.chartRef.destroy();
+  }
+
+  public onPieSliceChange = (newValue: MatSliderChange) => {
+    if (newValue!.value! > this.pieSlices) {
+      this.incrementPieSlices()
+    } else {
+      if (newValue!.value! < this.pieSlices) {
+        this.decrementPieSlices()
+      }
+    }
   }
 
   private getData = () => {
     this.expenseTypes = [];
     this.occurrences = [];
-    this.dataService.getOccurrences('Supplier').subscribe((data) => {
-      // console.log(data)
+    this.dataSubscription = this.dataService.getOccurrence('Supplier').subscribe((data) => {
+      this.otherData = this.sortData(data);
+      for (let i = 0; i < this.pieSlices; i++) {
+        this.addData();
+      }
+
       // let trimmedData: number = 0;
       // for (const property in data) {
       //   let count = data[property];
@@ -44,17 +72,19 @@ export class PieChartComponent implements OnInit {
       // this.expenseTypes = Object.keys(data);
       // this.occurrences = Object.values(data);
 
-      let sortedData = this.sortData(data);
-      for (let i = 0; i < this.pieSlices; i++) {
-        this.expenseTypes.push(sortedData.pop()[0]);
-        this.occurrences.push(sortedData.pop()[1]);
-      }
-
-
-      this.colours = this.generateChartColours(this.expenseTypes.length);
-
+      this.colours = this.generateChartColours(PieChartComponent.MAX_PIE_SLICES);
       this.generatePieChart();
     })
+  }
+
+  private addData = () => {
+    let newData = this.otherData.pop();
+    this.expenseTypes.push(newData[0]);
+    this.occurrences.push(newData[1]);
+  }
+
+  private removeData = () => {
+    this.otherData.push([this.expenseTypes.pop(), this.occurrences.pop()])
   }
 
   private sortData = (data: { [x: string]: any; }): any[] => {
@@ -69,15 +99,8 @@ export class PieChartComponent implements OnInit {
     return sorted;
   }
 
-  private generateChartColours = (length: number): string[] => {
-    let colours: string[] = [];
-    for (let i = 0; i < length; i++) {
-      colours.push('#' + Math.floor(Math.random() * 16777215).toString(16));
-    }
-    return colours;
-  }
-
   private generatePieChart = () => {
+    Chart.defaults.color = '#FFF';
     this.chartRef = new Chart('pieChartCanvas', {
       type: 'pie',
       data: {
@@ -92,14 +115,24 @@ export class PieChartComponent implements OnInit {
     });
   }
 
-  public incrementPieSlices = () => {
-    this.pieSlices++;
-    this.resetPieChart();
+  private generateChartColours = (length: number): string[] => {
+    let colours: string[] = [];
+    for (let i = 0; i < length; i++) {
+      colours.push('#' + Math.floor(Math.random() * 16777215).toString(16));
+    }
+    return colours;
   }
-  public decrementPieSlices = () => {
-    this.pieSlices--;
-    this.resetPieChart();
 
+  private incrementPieSlices = () => {
+    this.pieSlices++;
+    this.addData();
+    this.chartRef.update();
+  }
+
+  private decrementPieSlices = () => {
+    this.pieSlices--;
+    this.removeData();
+    this.chartRef.update();
   }
 
   private resetPieChart = () => {
