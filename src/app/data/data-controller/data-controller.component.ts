@@ -19,7 +19,7 @@ export class DataControllerComponent {
   }
 
   public prevClick = () => {
-    this.dataService.prevData();
+    this.prevDisabled = this.dataService.prevData();
     this.nextDisabled = false;
   }
 }

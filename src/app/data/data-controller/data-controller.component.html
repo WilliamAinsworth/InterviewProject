@@ -1,7 +1,6 @@
 <mat-card class="data-controller">
-  <mat-card-title> MONTHS </mat-card-title>
   <mat-card-actions>
-    <button mat-button (click)="nextClick()" [disabled]="prevDisabled"> NEXT </button>
-    <button mat-button (click)="prevClick()" [disabled]="nextDisabled"> PREV </button>
+    <button mat-button (click)="prevClick()" [disabled]="prevDisabled"> PREVIOUS DATASET </button>
+    <button mat-button (click)="nextClick()" [disabled]="nextDisabled"> NEXT DATASET</button>
   </mat-card-actions>
 </mat-card>

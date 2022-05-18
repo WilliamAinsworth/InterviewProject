@@ -1,10 +1,12 @@
 #lineChart {
   display: block;
+  height: 90%;
 }
 
 mat-card {
   width: 60vw;
   display: inline-block;
+  height: 400px;
 }
 
 

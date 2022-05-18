@@ -26,12 +26,11 @@ export class PieChartComponent implements OnInit, OnDestroy {
   private dataSubscription: Subscription;
 
   constructor(private dataService: DataService) {
-    document.addEventListener('RE-RENDER', this.ngOnInit);
+    document.addEventListener('RE-RENDER', this.resetChart);
   }
 
   ngOnInit() {
     this.getData();
-
   }
 
   ngOnDestroy() {
@@ -135,7 +134,7 @@ export class PieChartComponent implements OnInit, OnDestroy {
     this.chartRef.update();
   }
 
-  private resetPieChart = () => {
+  private resetChart = () => {
     this.chartRef.destroy();
     this.getData();
   }

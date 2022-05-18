@@ -1,6 +1,6 @@
-import {EventEmitter, Injectable} from '@angular/core';
+import {Injectable} from '@angular/core';
 import {HttpClient} from "@angular/common/http";
-import {map, Observable, of} from "rxjs";
+import {map, Observable} from "rxjs";
 
 export interface Expense {
   DepartmentFamily: string,
@@ -17,10 +17,9 @@ export interface Expense {
 @Injectable({
   providedIn: 'root'
 })
+
 export class DataService {
 
-  //  Can be swapped with web addresses
-  // TODO if time permits, use dates within data sets to order these
   private dataURLs: string[] = [
     'assets/transactionCSVs/EPSRCspendDataOct2013.csv',
     'assets/transactionCSVs/EPSRCspendDataDec2013.csv',
@@ -69,7 +68,7 @@ export class DataService {
 
   public getExpensesPerDate = (): Observable<{ [x: string]: number; }> => {
     let accExpenses: { [x: string]: number; } = {};
-    return this.getRawData().pipe(map( (expenses: Expense[]) => {
+    return this.getRawData().pipe(map((expenses: Expense[]) => {
       expenses.forEach((expense: Expense) => {
         accExpenses[expense.Date] = accExpenses[expense.Date] + +expense.Amount || +expense.Amount;
       })
@@ -86,12 +85,6 @@ export class DataService {
     const lines = csv.split('\n');
     lines.pop();
     this.csvHeaders = lines[0].split(',');
-
-    // data clean up
-    // if (this.csvHeaders[8] != EXPECTED_LAST_HEADER) {
-    //   lines.shift();
-    //   this.csvHeaders = lines[0].split(',');
-    // }
 
     return lines.slice(1).map(line => {
       return line.split(',').reduce((acc, cur, i) => {

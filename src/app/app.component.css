@@ -1,9 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
 .charts {
   display: flex;
   justify-content: space-around;
-  padding: 1rem;
 }
 
 .controls {
-
+  height: auto;
+  padding: 1rem;
 }

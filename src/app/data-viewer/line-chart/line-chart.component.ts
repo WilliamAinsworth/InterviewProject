@@ -1,43 +1,44 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, OnDestroy, OnInit} from '@angular/core';
 import {DataService} from "../../data/data.service";
 import {Chart} from "chart.js";
+import {Subscription} from "rxjs";
 
 @Component({
   selector: 'app-line-chart',
   templateUrl: './line-chart.component.html',
   styleUrls: ['./line-chart.component.css']
 })
-export class LineChartComponent implements OnInit {
+export class LineChartComponent implements OnInit, OnDestroy {
 
   private expenseDates: string[];
   private expenseAmounts: number[];
-  private chartRef: any;
+  private lineChartRef: any;
+  private dataSubscription: Subscription;
 
   constructor(private dataService: DataService) {
-  }
+    document.addEventListener('RE-RENDER', this.resetChart);  }
 
   ngOnInit(): void {
     this.getData();
   }
 
-
-  private getData = () => {
-    this.dataService.getExpensesPerDate().subscribe((data) => {
-      console.log(data)
-      this.expenseDates = Object.keys(data);
-      this.expenseAmounts = Object.values(data);
-
-      this.expenseAmounts = this.expenseAmounts.map(this.cumulativeSum)
-      this.generateLineChart();
-    })
-
+  ngOnDestroy() {
+    this.dataSubscription.unsubscribe();
+    this.lineChartRef.destroy();
   }
 
-  private cumulativeSum = (sum => (value: number) => sum += value)(0);
+  private getData = () => {
+    this.dataSubscription = this.dataService.getExpensesPerDate().subscribe((data) => {
+      this.expenseDates = Object.keys(data);
+      this.expenseAmounts = Object.values(data)
+      this.generateLineChart();
+    })
+  }
+
 
   private generateLineChart = () => {
     Chart.defaults.color = '#FFF';
-    this.chartRef = new Chart('lineChartCanvas', {
+    this.lineChartRef = new Chart('lineChartCanvas', {
       type: 'line',
       data: {
         labels: this.expenseDates,
@@ -50,7 +51,7 @@ export class LineChartComponent implements OnInit {
         }]
       },
       options: {
-        responsive: true,
+        maintainAspectRatio: false,
         scales: {
           x: {
             display: true
@@ -62,5 +63,14 @@ export class LineChartComponent implements OnInit {
         }
       }
     })
+  }
+
+  private resetChart = () => {
+    this.ngOnDestroy()
+    this.expenseDates = [];
+    this.expenseAmounts = [];
+
+    console.log(this.expenseAmounts)
+    this.getData();
   }
 }
