@@ -12,6 +12,9 @@ import {FormsModule} from "@angular/forms";
 import {LineChartComponent} from './data-viewer/line-chart/line-chart.component';
 import {MatSlideToggleModule} from "@angular/material/slide-toggle";
 import {MatDialogModule} from "@angular/material/dialog";
+import { AppRoutingModule } from './app-routing.module';
+import { ChartViewRouteComponent } from './data-viewer/chart-view-route/chart-view-route.component';
+import { TableViewComponent } from './data-viewer/table-view/table-view.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +22,8 @@ import {MatDialogModule} from "@angular/material/dialog";
     PieChartComponent,
     DataControllerComponent,
     LineChartComponent,
+    ChartViewRouteComponent,
+    TableViewComponent,
   ],
   imports: [
     BrowserModule,
@@ -29,7 +34,8 @@ import {MatDialogModule} from "@angular/material/dialog";
     MatSliderModule,
     FormsModule,
     MatSlideToggleModule,
-    MatDialogModule
+    MatDialogModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

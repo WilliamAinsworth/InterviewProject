@@ -1,4 +1,12 @@
 .data-controller {
-  width: 93vw;
+  width: 95vw;
   margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
 }
+
+
+.material-icons {
+  width: 1.5rem;
+}
+

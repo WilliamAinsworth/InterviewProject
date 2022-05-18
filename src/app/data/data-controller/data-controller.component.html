@@ -1,6 +1,11 @@
 <mat-card class="data-controller">
-  <mat-card-actions>
-    <button mat-button (click)="prevClick()" [disabled]="prevDisabled"> PREVIOUS DATASET </button>
-    <button mat-button (click)="nextClick()" [disabled]="nextDisabled"> NEXT DATASET</button>
-  </mat-card-actions>
+  <div class="nav-buttons">
+    <a mat-button routerLink="/table"><span class="material-icons">table_rows</span></a>
+    <a mat-button routerLink="/charts"><span class="material-icons">insights</span></a>
+  </div>
+  <div class="dataset-buttons">
+    <button mat-button (click)="prevClick()" [disabled]="prevDisabled"><span class="material-icons">arrow_backward</span> PREVIOUS DATASET </button>
+    <button mat-button (click)="nextClick()" [disabled]="nextDisabled"> NEXT DATASET <span class="material-icons">arrow_forward</span></button>
+  </div>
+
 </mat-card>
