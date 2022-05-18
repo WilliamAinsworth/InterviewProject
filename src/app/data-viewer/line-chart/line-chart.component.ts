@@ -16,7 +16,8 @@ export class LineChartComponent implements OnInit, OnDestroy {
   private dataSubscription: Subscription;
 
   constructor(private dataService: DataService) {
-    document.addEventListener('RE-RENDER', this.resetChart);  }
+    document.addEventListener('RE-RENDER', this.resetChart);
+  }
 
   ngOnInit(): void {
     this.getData();
@@ -69,8 +70,6 @@ export class LineChartComponent implements OnInit, OnDestroy {
     this.ngOnDestroy()
     this.expenseDates = [];
     this.expenseAmounts = [];
-
-    console.log(this.expenseAmounts)
     this.getData();
   }
 }

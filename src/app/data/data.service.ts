@@ -43,6 +43,11 @@ export class DataService {
   constructor(private http: HttpClient) {
   }
 
+  public getRawData = (): Observable<Expense[]> => {
+    return this.http.get(this.dataURLs[this.currentDataIndex], {responseType: 'text'})
+      .pipe(map(data => (this.csvToJson(data) as Expense[])));
+  }
+
   public nextData(): boolean {
     this.currentDataIndex++;
     document.dispatchEvent(this.reRenderEvent);
@@ -76,16 +81,21 @@ export class DataService {
     }))
   }
 
-  private getRawData = (): Observable<Expense[]> => {
-    return this.http.get(this.dataURLs[this.currentDataIndex], {responseType: 'text'})
-      .pipe(map(data => (this.csvToJson(data) as Expense[])));
-  }
-
   private csvToJson = (csv: string) => {
     const lines = csv.split('\n');
     lines.pop();
     this.csvHeaders = lines[0].split(',');
 
+    // hack to deal with poor quality data
+    for (let i = 0; i < this.csvHeaders.length ; i++) {
+      if (this.csvHeaders[i].length == 0) {
+        lines.shift()
+        this.csvHeaders = lines[0].split(',');
+        break;
+      }
+    }
+
+    this.csvHeaders[8] = this.csvHeaders[8].slice(0, -1)
     return lines.slice(1).map(line => {
       return line.split(',').reduce((acc, cur, i) => {
         const toAdd = {};
@@ -95,5 +105,4 @@ export class DataService {
       }, {});
     });
   }
-
 }

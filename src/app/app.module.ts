@@ -15,6 +15,8 @@ import {MatDialogModule} from "@angular/material/dialog";
 import { AppRoutingModule } from './app-routing.module';
 import { ChartViewRouteComponent } from './data-viewer/chart-view-route/chart-view-route.component';
 import { TableViewComponent } from './data-viewer/table-view/table-view.component';
+import {MatTableModule} from "@angular/material/table";
+import {MatPaginatorModule} from "@angular/material/paginator";
 
 @NgModule({
   declarations: [
@@ -35,7 +37,9 @@ import { TableViewComponent } from './data-viewer/table-view/table-view.componen
     FormsModule,
     MatSlideToggleModule,
     MatDialogModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MatTableModule,
+    MatPaginatorModule
   ],
   providers: [],
   bootstrap: [AppComponent]

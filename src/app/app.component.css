@@ -4,9 +4,7 @@
   align-items: center;
 }
 
-app-date-view-route {
+router-outlet {
   width: 100vw;
-}
-.controls {
-  height: auto;
+  padding: 1rem;
 }
