@@ -14,12 +14,17 @@ export class DataControllerComponent {
   public prevDisabled: boolean = true;
 
   public nextClick = () => {
-    this.nextDisabled = this.dataService.nextData();
-    this.prevDisabled = false;
+    this.dataService.nextData()
+    this.setButtonState()
   }
 
   public prevClick = () => {
-    this.prevDisabled = this.dataService.prevData();
-    this.nextDisabled = false;
+    this.dataService.prevData()
+    this.setButtonState()
+  }
+
+  private setButtonState = () => {
+    this.nextDisabled = this.dataService.currentDataIndex === this.dataService.datasetCount - 1
+    this.prevDisabled = this.dataService.currentDataIndex === 0
   }
 }

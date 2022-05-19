@@ -49,22 +49,17 @@ export class DataService {
       .pipe(map(data => (this.csvToJson(data) as Expense[])));
   }
 
-  public nextData(): boolean {
-    if (this.currentDataIndex === this.dataURLs.length - 1) {
-      return true;
+  public nextData() {
+    if (!(this.currentDataIndex === this.datasetCount - 1)) {
+      this.currentDataIndex++;
+      document.dispatchEvent(this.reRenderEvent);
     }
-    this.currentDataIndex++;
-    document.dispatchEvent(this.reRenderEvent);
-    return false;
   }
 
-  public prevData(): boolean {
-    if (this.currentDataIndex === 0) {
-      return true;
-    } else {
+  public prevData() {
+    if (!(this.currentDataIndex === 0)) {
       this.currentDataIndex--;
       document.dispatchEvent(this.reRenderEvent);
-      return false;
     }
   }
 

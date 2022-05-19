@@ -67,22 +67,23 @@ BIS,EPSRC,01/04/2015,Financial Services`
   });
 
   it('should increment currentDataIndex when nextData() is called', () => {
-    let prevIndex = service.currentDataIndex
+    const prevIndex = service.currentDataIndex
     service.nextData()
     expect(service.currentDataIndex).toEqual(prevIndex + 1)
   })
 
   it('should not decrement currentDataIndex when prevData() is called at the FIRST dataset', () => {
-    let prevIndex = service.currentDataIndex;
+    service.currentDataIndex = 0
+    const prevIndex = service.currentDataIndex;
     service.prevData()
     expect(service.currentDataIndex).toEqual(prevIndex)
   })
 
-  it('should not increment currentDataIndex when prevData() is called at the LAST dataset', () => {
+  it('should not increment currentDataIndex when nextData() is called at the LAST dataset', () => {
     service.currentDataIndex = service.datasetCount - 1
-    let datasetCount = service.currentDataIndex
+    const prevIndex = service.currentDataIndex
     service.nextData()
-    expect(service.currentDataIndex).toEqual(datasetCount)
+    expect(prevIndex).toEqual(service.currentDataIndex)
   })
 
   it('getRawData() should extract the data correctly', () => {
