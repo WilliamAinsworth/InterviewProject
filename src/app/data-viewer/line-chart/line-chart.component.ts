@@ -52,14 +52,16 @@ export class LineChartComponent implements OnInit, OnDestroy {
         datasets: [{
           label: "Expenses",
           data: this.expenseAmounts,
-          fill: false,
-          borderColor: '#7aff05',
+          fill: true,
+          borderColor: 'rgba(252, 255, 0, 1)',
+          backgroundColor: 'rgba(252, 255, 0, 0.1)',
           tension: 0.2
         },{
           label: "Cumulative Expenses",
           data: this.cumulativeExpenses,
           fill: true,
-          borderColor: '#34d2eb',
+          borderColor: 'rgba(84, 195, 255, 1)',
+          backgroundColor: 'rgba(84, 195, 255, 0.1)',
           tension: 0.3
         }
 
