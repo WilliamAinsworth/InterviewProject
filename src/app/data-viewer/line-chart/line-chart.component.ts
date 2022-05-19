@@ -12,8 +12,10 @@ export class LineChartComponent implements OnInit, OnDestroy {
 
   private expenseDates: string[];
   private expenseAmounts: number[];
+  private cumulativeExpenses: number[];
   private lineChartRef: any;
   private dataSubscription: Subscription;
+  private fontSize: number = 18;
 
   constructor(private dataService: DataService) {
     document.addEventListener('RE-RENDER', this.resetChart);
@@ -32,10 +34,14 @@ export class LineChartComponent implements OnInit, OnDestroy {
     this.dataSubscription = this.dataService.getExpensesPerDate().subscribe((data) => {
       this.expenseDates = Object.keys(data);
       this.expenseAmounts = Object.values(data)
+
+      const cumulativeSum = (sum => (value: number) => sum += value)(0);
+      this.cumulativeExpenses = [...Object.values(data)].map(cumulativeSum)
+
+      console.log(Object.values(data))
       this.generateLineChart();
     })
   }
-
 
   private generateLineChart = () => {
     Chart.defaults.color = '#FFF';
@@ -44,22 +50,50 @@ export class LineChartComponent implements OnInit, OnDestroy {
       data: {
         labels: this.expenseDates,
         datasets: [{
-          label: "Cumulative Expenses",
+          label: "Expenses",
           data: this.expenseAmounts,
           fill: false,
           borderColor: '#7aff05',
           tension: 0.2
-        }]
+        },{
+          label: "Cumulative Expenses",
+          data: this.cumulativeExpenses,
+          fill: true,
+          borderColor: '#34d2eb',
+          tension: 0.3
+        }
+
+        ]
       },
       options: {
+        plugins: {
+          legend: {
+            labels: {
+              // This more specific font property overrides the global property
+              font: {
+                size: this.fontSize
+              }
+            }
+          }
+        },
         maintainAspectRatio: false,
         scales: {
           x: {
-            display: true
+            display: true,
+            ticks: {
+              font: {
+                size: this.fontSize
+              }
+            }
           },
           y: {
             display: true,
             type: 'logarithmic',
+            ticks: {
+              font: {
+                size: this.fontSize
+              }
+            }
           }
         }
       }
@@ -70,6 +104,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
     this.ngOnDestroy()
     this.expenseDates = [];
     this.expenseAmounts = [];
+    this.cumulativeExpenses = [];
     this.getData();
   }
 }

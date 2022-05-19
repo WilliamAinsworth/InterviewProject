@@ -1,6 +1,11 @@
 #lineChart {
   display: block;
-  height: 90%;
+  height: 95%;
+  margin: 1rem;
+}
+
+#lineChartCanvas {
+  max-height: 75vh;
 }
 
 mat-card-title {
@@ -10,7 +15,7 @@ mat-card-title {
 mat-card {
   width: 60vw;
   display: inline-block;
-  height: 400px;
+  height: 60vh;
 }
 
 

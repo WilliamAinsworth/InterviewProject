@@ -86,7 +86,6 @@ export class DataService {
       expenses.forEach((expense: Expense) => {
         accExpenses[expense.Date] = accExpenses[expense.Date] + +expense.Amount || +expense.Amount;
       })
-      console.log(accExpenses)
       return accExpenses;
     }))
   }

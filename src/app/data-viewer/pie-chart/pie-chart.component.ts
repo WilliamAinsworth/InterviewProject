@@ -14,8 +14,9 @@ Chart.register(...registerables);
 export class PieChartComponent implements OnInit, OnDestroy {
 
   @Input() pieSlices: number = 4;
+
   // TODO can't seem to use these as inputs to the Material Slider, possible bug
-  public static MAX_PIE_SLICES = 10;
+  public static MAX_PIE_SLICES = 8;
   public static MIN_PIE_SLICES = 2;
 
   private expenseTypes: string[] = [];
@@ -24,6 +25,7 @@ export class PieChartComponent implements OnInit, OnDestroy {
   private chartRef: any;
   private otherData: any[];
   private dataSubscription: Subscription;
+  private fontSize: number = 18;
 
   constructor(private dataService: DataService) {
     document.addEventListener('RE-RENDER', this.resetChart);
@@ -56,21 +58,6 @@ export class PieChartComponent implements OnInit, OnDestroy {
       for (let i = 0; i < this.pieSlices; i++) {
         this.addData();
       }
-
-      // let trimmedData: number = 0;
-      // for (const property in data) {
-      //   let count = data[property];
-      //
-      //   if (count < 50) {
-      //     trimmedData = trimmedData + count;
-      //     delete data[property];
-      //   }
-      // }
-      // data['other'] = trimmedData;
-      //
-      // this.expenseTypes = Object.keys(data);
-      // this.occurrences = Object.values(data);
-
       this.colours = this.generateChartColours(PieChartComponent.MAX_PIE_SLICES);
       this.generatePieChart();
     })
@@ -110,6 +97,17 @@ export class PieChartComponent implements OnInit, OnDestroy {
           backgroundColor: this.colours,
           hoverOffset: 4
         }]
+      },      options: {
+        plugins: {
+          legend: {
+            labels: {
+              // This more specific font property overrides the global property
+              font: {
+                size: this.fontSize
+              }
+            }
+          }
+        },
       }
     });
   }
