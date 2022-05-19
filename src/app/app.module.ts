@@ -2,7 +2,6 @@ import {NgModule} from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
 import {AppComponent} from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {HttpClientModule} from "@angular/common/http";
 import {PieChartComponent} from "./data-viewer/pie-chart/pie-chart.component";
 import {DataControllerComponent} from './data/data-controller/data-controller.component';
 import {MatButtonModule} from "@angular/material/button";
@@ -17,6 +16,7 @@ import { ChartViewRouteComponent } from './data-viewer/chart-view-route/chart-vi
 import { TableViewComponent } from './data-viewer/table-view/table-view.component';
 import {MatTableModule} from "@angular/material/table";
 import {MatPaginatorModule} from "@angular/material/paginator";
+import {HttpClientModule} from "@angular/common/http";
 
 @NgModule({
   declarations: [

@@ -37,7 +37,8 @@ export class DataService {
   ];
 
   public csvHeaders: string[];
-  public currentDataIndex: number = 0;
+  public currentDataIndex = 0;
+  public datasetCount = this.dataURLs.length
   private reRenderEvent = new Event('RE-RENDER');
 
   constructor(private http: HttpClient) {
@@ -49,15 +50,22 @@ export class DataService {
   }
 
   public nextData(): boolean {
+    if (this.currentDataIndex === this.dataURLs.length - 1) {
+      return true;
+    }
     this.currentDataIndex++;
     document.dispatchEvent(this.reRenderEvent);
-    return this.currentDataIndex === this.dataURLs.length - 1;
+    return false;
   }
 
   public prevData(): boolean {
-    this.currentDataIndex--;
-    document.dispatchEvent(this.reRenderEvent);
-    return this.currentDataIndex === 0;
+    if (this.currentDataIndex === 0) {
+      return true;
+    } else {
+      this.currentDataIndex--;
+      document.dispatchEvent(this.reRenderEvent);
+      return false;
+    }
   }
 
   public getOccurrence = (heading: keyof Expense): Observable<{ [x: string]: number; }> => {
@@ -67,6 +75,7 @@ export class DataService {
         let value = expense[heading];
         occurrences[value] = occurrences[value] + 1 || 1;
       })
+
       return occurrences;
     }))
   }
@@ -77,6 +86,7 @@ export class DataService {
       expenses.forEach((expense: Expense) => {
         accExpenses[expense.Date] = accExpenses[expense.Date] + +expense.Amount || +expense.Amount;
       })
+      console.log(accExpenses)
       return accExpenses;
     }))
   }
@@ -95,7 +105,7 @@ export class DataService {
       }
     }
 
-    this.csvHeaders[8] = this.csvHeaders[8].slice(0, -1)
+    // this.csvHeaders[this.datasetCount - 1] = this.csvHeaders[this.datasetCount - 1].slice(0, -1)
     return lines.slice(1).map(line => {
       return line.split(',').reduce((acc, cur, i) => {
         const toAdd = {};
