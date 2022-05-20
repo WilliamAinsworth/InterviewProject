@@ -6,6 +6,7 @@ import {TableViewComponent} from "./data-viewer/table-view/table-view.component"
 const routes: Routes = [
   {path: 'charts', component: ChartViewRouteComponent},
   {path: 'table', component: TableViewComponent},
+  {path: '', component: TableViewComponent},
 ];
 
 @NgModule({
