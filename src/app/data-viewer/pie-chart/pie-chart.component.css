@@ -9,7 +9,7 @@
 
 mat-card {
   width: 30vw;
-  height: 60vh;
+  height: 65vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
