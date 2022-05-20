@@ -72,6 +72,13 @@ BIS,EPSRC,01/04/2015,Financial Services`
     expect(service.currentDataIndex).toEqual(prevIndex + 1)
   })
 
+  it('should decrement currentDataIndex when prevData() is called', () => {
+    service.currentDataIndex = 5;
+    const prevIndex = service.currentDataIndex
+    service.prevData()
+    expect(service.currentDataIndex).toEqual(prevIndex - 1)
+  })
+
   it('should not decrement currentDataIndex when prevData() is called at the FIRST dataset', () => {
     service.currentDataIndex = 0
     const prevIndex = service.currentDataIndex;
