@@ -14,8 +14,7 @@ Chart.register(...registerables);
 export class PieChartComponent implements OnInit, OnDestroy {
 
   @Input() pieSlices: number = 4;
-
-  // TODO can't seem to use these as inputs to the Material Slider, possible bug
+  // TODO POSSIBLE BUG: Material Slider min/max not working with variables
   public static MAX_PIE_SLICES = 8;
   public static MIN_PIE_SLICES = 2;
 
@@ -78,7 +77,6 @@ export class PieChartComponent implements OnInit, OnDestroy {
     for (let prop in data) {
       sorted.push([prop, data[prop]]);
     }
-
     sorted.sort(function (a, b) {
       return a[1] - b[1];
     });
@@ -101,7 +99,6 @@ export class PieChartComponent implements OnInit, OnDestroy {
         plugins: {
           legend: {
             labels: {
-              // This more specific font property overrides the global property
               font: {
                 size: this.fontSize
               }

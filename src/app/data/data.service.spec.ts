@@ -1,4 +1,4 @@
-import { TestBed} from '@angular/core/testing';
+import {TestBed} from '@angular/core/testing';
 
 import {DataService, Expense} from './data.service';
 import {HttpClientTestingModule, HttpTestingController} from "@angular/common/http/testing";

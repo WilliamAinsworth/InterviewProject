@@ -70,7 +70,6 @@ export class DataService {
         let value = expense[heading];
         occurrences[value] = occurrences[value] + 1 || 1;
       })
-
       return occurrences;
     }))
   }
@@ -90,7 +89,7 @@ export class DataService {
     lines.pop();
     this.csvHeaders = lines[0].split(',');
 
-    // hack to deal with poor quality data
+    // TODO TECHNICAL DEBT: inconsistency in input data
     for (let i = 0; i < this.csvHeaders.length ; i++) {
       if (this.csvHeaders[i].length == 0) {
         lines.shift()
@@ -99,7 +98,6 @@ export class DataService {
       }
     }
 
-    // this.csvHeaders[this.datasetCount - 1] = this.csvHeaders[this.datasetCount - 1].slice(0, -1)
     return lines.slice(1).map(line => {
       return line.split(',').reduce((acc, cur, i) => {
         const toAdd = {};

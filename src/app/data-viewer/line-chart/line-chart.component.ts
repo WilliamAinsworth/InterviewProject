@@ -32,13 +32,13 @@ export class LineChartComponent implements OnInit, OnDestroy {
 
   private getData = () => {
     this.dataSubscription = this.dataService.getExpensesPerDate().subscribe((data) => {
-      this.expenseDates = Object.keys(data);
-      this.expenseAmounts = Object.values(data)
 
       const cumulativeSum = (sum => (value: number) => sum += value)(0);
+
+      this.expenseDates = Object.keys(data);
+      this.expenseAmounts = Object.values(data)
       this.cumulativeExpenses = [...Object.values(data)].map(cumulativeSum)
 
-      console.log(Object.values(data))
       this.generateLineChart();
     })
   }
@@ -71,7 +71,6 @@ export class LineChartComponent implements OnInit, OnDestroy {
         plugins: {
           legend: {
             labels: {
-              // This more specific font property overrides the global property
               font: {
                 size: this.fontSize
               }
